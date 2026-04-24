@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Smart Agriculture System</title>
+
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Icons -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+
+    <style>
+        {% comment %} body {
+            background-image: url('https://media.istockphoto.com/id/543212762/photo/tractor-cultivating-field-at-spring.jpg?s=612x612&w=0&k=20&c=uJDy7MECNZeHDKfUrLNeQuT7A1IqQe89lmLREhjIJYU=');
+            background-size: cover; /* Ensures the image covers the entire area */
+            background-repeat: no-repeat; /* Prevents the image from tiling */
+            background-position: center; /* Centers the image */
+            background-attachment: fixed; /* Keeps the background fixed during scroll */
+            margin: 0; /* Removes default browser padding */
+            height: 100vh; /* Sets height to 100% of the viewport */
+        }  {% endcomment %}
+        body {
+            background: linear-gradient(to right, #89a47c, #72845b);
+            color: white;
+            font-family: Arial;
+        }
+
+
+        .card {
+            border: none;
+            border-radius: 15px;
+            transition: 0.3s;
+        }
+
+        .card:hover {
+            transform: scale(1.05);
+        }
+
+        .btn {
+            border-radius: 20px;
+        }
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #ddf5e4;
+        }
+
+        .hero {
+            text-align: center;
+            padding: 80px 20px 40px;
+        }
+
+        .hero-icon {
+            font-size: 50px;
+            color: green;
+        }
+
+        .hero h1 {
+            font-size: 60px;
+            color: #14532d;
+            margin: 10px 0;
+        }
+
+        .hero h3 {
+            color: #15803d;
+            font-weight: normal;
+        }
+
+        .hero p {
+            max-width: 700px;
+            margin: 20px auto;
+            color: #374151;
+            font-size: 18px;
+        }
+
+        .btn-container {
+            margin-top: 30px;
+        }
+
+        .btn {
+            padding: 12px 25px;
+            font-size: 18px;
+            border-radius: 8px;
+            border: none;
+            cursor: pointer;
+            margin: 10px;
+        }
+
+        .btn-primary {
+            background: #16a34a;
+            color: white;
+        }
+
+        .btn-outline {
+            background: transparent;
+            border: 2px solid #16a34a;
+            color: #16a34a;
+        }
+    </style>
+</head>
+<body>
+<div class="hero">
+    <div class="hero-icon">🌱</div>
+
+    <h1>AgriBot</h1>
+
+    <h3>Intelligent Farmer Support System</h3>
+
+    <p>
+        Empowering farmers with AI-driven insights for crop selection,
+        disease management, and scientific agricultural guidance
+    </p>
+
+    <div class="btn-container">
+        <a href="/signup/">
+            <button class="btn btn-primary">Get Started</button>
+        </a>
+
+        <a href="/login/">
+            <button class="btn btn-outline">Login</button>
+        </a>
+    </div>
+</div>
+<h2 style="text-align:center; color:#14532d;">Core Features</h2>
+
+<div class="container text-center mt-5">
+    <div class="row justify-content-center">
+
+        <!-- Crop Module -->
+        <div class="col-md-4">
+            <div class="card p-4 shadow bg-light text-dark">
+                <i class="fas fa-seedling fa-3x text-success mb-3"></i>
+                <h4>Crop Recommendation</h4>
+                <p>Get best crop based on soil & weather</p>
+                <a href="/crop/" class="btn btn-success">Open</a>
+            </div>
+        </div>
+
+        <!-- Chat Module -->
+        <div class="col-md-4">
+            <div class="card p-4 shadow bg-light text-dark">
+                <i class="fas fa-comments fa-3x text-primary mb-3"></i>
+                <h4>Chat Assistant</h4>
+                <p>Ask farming related questions</p>
+                <button class="btn btn-secondary" disabled>Coming Soon</button>
+            </div>
+        </div>
+
+        <!-- Disease Module -->
+        <div class="col-md-4">
+            <div class="card p-4 shadow bg-light text-dark">
+                <i class="fas fa-bug fa-3x text-danger mb-3"></i>
+                <h4>Disease Detection</h4>
+                <p>Detect crop diseases</p>
+                <a href="/disease/" class="btn btn-danger">Open</a>        
+            </div>
+        </div>
+
+    </div>
+</div>
+
+</body>
+</html>

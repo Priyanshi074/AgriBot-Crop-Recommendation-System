@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Result</title>
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<style>
+body{
+background: #ddf5e4;
+min-height:100vh;
+font-family:'Segoe UI';
+}
+
+.result-card{
+max-width:600px;
+margin:60px auto;
+padding:30px;
+border-radius:20px;
+background:white;
+box-shadow:0 20px 40px rgba(0,0,0,0.2);
+text-align:center;
+}
+
+.result-img{
+width:100%;
+max-width:300px;
+border-radius:15px;
+margin:15px auto;
+display:block;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="result-card">
+
+<h2>🌿 Prediction Result</h2>
+
+<img src="{{ image_url }}" class="result-img">
+
+<h4>Disease: {{ result }}</h4>
+
+<p><b>Remedy:</b> {{ remedy }}</p>
+
+<a href="/disease/" class="btn btn-success mt-3 w-100">Try Again</a>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,130 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-04-01 21:35+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\agri_project\settings.py:111
+msgid "English"
+msgstr "अंग्रेज़ी"
+
+#: .\agri_project\settings.py:112
+msgid "Hindi"
+msgstr "हिन्दी"
+
+#: .\crop_app\templates\dashboard.html:4
+#, fuzzy
+#| msgid "Crop Recommendation System"
+msgid "Crop Recommendation Analytics"
+msgstr "फसल विश्लेषण प्रणाली"
+
+#: .\crop_app\templates\dashboard.html:7
+msgid "Total Predictions:"
+msgstr "कुल भविष्यवाणियाँ:"
+
+#: .\crop_app\templates\dashboard.html:12
+msgid "Average Confidence:"
+msgstr "औसत विश्वसनीयता:"
+
+#: .\crop_app\templates\dashboard.html:16
+msgid "Most Recommended Crops:"
+msgstr "सबसे अधिक सुझाई गई फसलें:"
+
+#: .\crop_app\templates\dashboard.html:28
+msgid "Go Back"
+msgstr "वापस जाएँ"
+
+#: .\crop_app\templates\home.html:6 .\crop_app\templates\home.html:27
+msgid "Crop Recommendation System"
+msgstr "फसल विश्लेषण प्रणाली"
+
+#: .\crop_app\templates\home.html:31
+msgid "AI-powered Smart Agriculture Support"
+msgstr "एआई आधारित स्मार्ट कृषि सहायता"
+
+#: .\crop_app\templates\home.html:44
+msgid "Nitrogen (N)"
+msgstr "नाइट्रोजन"
+
+#: .\crop_app\templates\home.html:51
+msgid "Phosphorus (P)"
+msgstr "फॉस्फोरस (P)"
+
+#: .\crop_app\templates\home.html:58
+msgid "Potassium (K)"
+msgstr "पोटेशियम (K)"
+
+#: .\crop_app\templates\home.html:65
+msgid "Soil pH"
+msgstr "मिट्टी का पी.एच"
+
+#: .\crop_app\templates\home.html:72
+msgid "City"
+msgstr "शहर"
+
+#: .\crop_app\templates\home.html:79
+msgid "e.g., Delhi"
+msgstr "उदाहरण: दिल्ली"
+
+#: .\crop_app\templates\home.html:88
+#, fuzzy
+#| msgid "Prediction Result"
+msgid "Predict Best Crop"
+msgstr "भविष्यवाणी परिणाम"
+
+#: .\crop_app\templates\home.html:98
+msgid "View Analytics Dashboard"
+msgstr "विश्लेषण डैशबोर्ड देखें"
+
+#: .\crop_app\templates\result.html:7
+msgid "Prediction Result"
+msgstr "भविष्यवाणी परिणाम"
+
+#: .\crop_app\templates\result.html:22
+msgid "Recommended Crop"
+msgstr "सुझाई गई फसल"
+
+#: .\crop_app\templates\result.html:30
+msgid "Confidence"
+msgstr "विश्वास स्तर"
+
+#: .\crop_app\templates\result.html:38
+msgid "Top 3 Recommendations"
+msgstr "शीर्ष 3 सुझाव"
+
+#: .\crop_app\templates\result.html:56
+msgid "Weather Conditions Used"
+msgstr "उपयोग की गई मौसम जानकारी"
+
+#: .\crop_app\templates\result.html:63
+msgid "Temperature"
+msgstr "तापमान"
+
+#: .\crop_app\templates\result.html:70
+msgid "Humidity"
+msgstr "आर्द्रता"
+
+#: .\crop_app\templates\result.html:77
+msgid "Rainfall"
+msgstr "वर्षा"
+
+#: .\crop_app\templates\result.html:140
+msgid "Try Again"
+msgstr "फिर से प्रयास करें"
+
+#~ msgid "City (for live weather)"
+#~ msgstr "शहर (मौसम के लिए)"

@@ -1,0 +1,1741 @@
+state,year,month,temperature,humidity,rainfall
+andhra pradesh,2021,Jan,11°C - 21°C,56%,27 mm
+andhra pradesh,2021,Feb,13°C - 23°C,59%,44 mm
+andhra pradesh,2021,Mar,17°C - 26°C,63%,93 mm
+andhra pradesh,2021,Apr,20°C - 28°C,71%,198 mm
+andhra pradesh,2021,May,22°C - 30°C,76%,319 mm
+andhra pradesh,2021,Jun,24°C - 31°C,85%,528 mm
+andhra pradesh,2021,Jul,25°C - 32°C,89%,572 mm
+andhra pradesh,2021,Aug,25°C - 31°C,87%,451 mm
+andhra pradesh,2021,Sep,23°C - 30°C,83%,346 mm
+andhra pradesh,2021,Oct,20°C - 28°C,75%,137 mm
+andhra pradesh,2021,Nov,15°C - 25°C,66%,33 mm
+andhra pradesh,2021,Dec,11°C - 22°C,59%,16 mm
+andhra pradesh,2022,Jan,11°C - 21°C,55%,30 mm
+andhra pradesh,2022,Feb,13°C - 23°C,58%,48 mm
+andhra pradesh,2022,Mar,17°C - 26°C,62%,102 mm
+andhra pradesh,2022,Apr,20°C - 28°C,70%,216 mm
+andhra pradesh,2022,May,22°C - 30°C,75%,348 mm
+andhra pradesh,2022,Jun,24°C - 31°C,84%,576 mm
+andhra pradesh,2022,Jul,25°C - 32°C,88%,624 mm
+andhra pradesh,2022,Aug,25°C - 31°C,86%,492 mm
+andhra pradesh,2022,Sep,23°C - 30°C,82%,378 mm
+andhra pradesh,2022,Oct,20°C - 28°C,74%,150 mm
+andhra pradesh,2022,Nov,15°C - 25°C,65%,36 mm
+andhra pradesh,2022,Dec,11°C - 22°C,58%,18 mm
+andhra pradesh,2023,Jan,12°C - 22°C,54%,21 mm
+andhra pradesh,2023,Feb,14°C - 24°C,57%,34 mm
+andhra pradesh,2023,Mar,18°C - 27°C,61%,72 mm
+andhra pradesh,2023,Apr,21°C - 29°C,69%,153 mm
+andhra pradesh,2023,May,23°C - 31°C,74%,246 mm
+andhra pradesh,2023,Jun,25°C - 32°C,83%,408 mm
+andhra pradesh,2023,Jul,26°C - 33°C,87%,442 mm
+andhra pradesh,2023,Aug,26°C - 32°C,85%,348 mm
+andhra pradesh,2023,Sep,24°C - 31°C,81%,267 mm
+andhra pradesh,2023,Oct,21°C - 29°C,73%,106 mm
+andhra pradesh,2023,Nov,16°C - 26°C,64%,25 mm
+andhra pradesh,2023,Dec,12°C - 23°C,57%,12 mm
+andhra pradesh,2024,Jan,12°C - 22°C,54%,23 mm
+andhra pradesh,2024,Feb,14°C - 24°C,57%,38 mm
+andhra pradesh,2024,Mar,18°C - 27°C,61%,80 mm
+andhra pradesh,2024,Apr,21°C - 29°C,69%,171 mm
+andhra pradesh,2024,May,23°C - 31°C,74%,275 mm
+andhra pradesh,2024,Jun,25°C - 32°C,83%,456 mm
+andhra pradesh,2024,Jul,26°C - 33°C,87%,494 mm
+andhra pradesh,2024,Aug,26°C - 32°C,85%,389 mm
+andhra pradesh,2024,Sep,24°C - 31°C,81%,299 mm
+andhra pradesh,2024,Oct,21°C - 29°C,73%,118 mm
+andhra pradesh,2024,Nov,16°C - 26°C,64%,28 mm
+andhra pradesh,2024,Dec,12°C - 23°C,57%,14 mm
+andhra pradesh,2025,Jan,12°C - 22°C,55%,25 mm
+andhra pradesh,2025,Feb,14°C - 24°C,58%,40 mm
+andhra pradesh,2025,Mar,18°C - 27°C,62%,85 mm
+andhra pradesh,2025,Apr,21°C - 29°C,70%,180 mm
+andhra pradesh,2025,May,23°C - 31°C,75%,290 mm
+andhra pradesh,2025,Jun,25°C - 32°C,84%,480 mm
+andhra pradesh,2025,Jul,26°C - 33°C,88%,520 mm
+andhra pradesh,2025,Aug,26°C - 32°C,86%,410 mm
+andhra pradesh,2025,Sep,24°C - 31°C,82%,315 mm
+andhra pradesh,2025,Oct,21°C - 29°C,74%,125 mm
+andhra pradesh,2025,Nov,16°C - 26°C,65%,30 mm
+andhra pradesh,2025,Dec,12°C - 23°C,58%,15 mm
+arunachal pradesh,2021,Jan,19°C - 27°C,73%,11 mm
+arunachal pradesh,2021,Feb,19°C - 31°C,67%,5 mm
+arunachal pradesh,2021,Mar,22°C - 35°C,56%,16 mm
+arunachal pradesh,2021,Apr,27°C - 38°C,59%,60 mm
+arunachal pradesh,2021,May,27°C - 37°C,69%,220 mm
+arunachal pradesh,2021,Jun,27°C - 34°C,76%,154 mm
+arunachal pradesh,2021,Jul,26°C - 32°C,83%,198 mm
+arunachal pradesh,2021,Aug,25°C - 31°C,85%,209 mm
+arunachal pradesh,2021,Sep,25°C - 30°C,81%,176 mm
+arunachal pradesh,2021,Oct,24°C - 30°C,77%,123 mm
+arunachal pradesh,2021,Nov,22°C - 28°C,75%,88 mm
+arunachal pradesh,2021,Dec,20°C - 27°C,74%,22 mm
+arunachal pradesh,2022,Jan,19°C - 27°C,72%,12 mm
+arunachal pradesh,2022,Feb,19°C - 31°C,66%,6 mm
+arunachal pradesh,2022,Mar,22°C - 35°C,55%,18 mm
+arunachal pradesh,2022,Apr,27°C - 38°C,58%,66 mm
+arunachal pradesh,2022,May,27°C - 37°C,68%,240 mm
+arunachal pradesh,2022,Jun,27°C - 34°C,75%,168 mm
+arunachal pradesh,2022,Jul,26°C - 32°C,82%,216 mm
+arunachal pradesh,2022,Aug,25°C - 31°C,84%,228 mm
+arunachal pradesh,2022,Sep,25°C - 30°C,80%,192 mm
+arunachal pradesh,2022,Oct,24°C - 30°C,76%,134 mm
+arunachal pradesh,2022,Nov,22°C - 28°C,74%,96 mm
+arunachal pradesh,2022,Dec,20°C - 27°C,73%,24 mm
+arunachal pradesh,2023,Jan,20°C - 28°C,71%,8 mm
+arunachal pradesh,2023,Feb,20°C - 32°C,65%,4 mm
+arunachal pradesh,2023,Mar,23°C - 36°C,54%,12 mm
+arunachal pradesh,2023,Apr,28°C - 39°C,57%,46 mm
+arunachal pradesh,2023,May,28°C - 38°C,67%,170 mm
+arunachal pradesh,2023,Jun,28°C - 35°C,74%,119 mm
+arunachal pradesh,2023,Jul,27°C - 33°C,81%,153 mm
+arunachal pradesh,2023,Aug,26°C - 32°C,83%,161 mm
+arunachal pradesh,2023,Sep,26°C - 31°C,79%,136 mm
+arunachal pradesh,2023,Oct,25°C - 31°C,75%,95 mm
+arunachal pradesh,2023,Nov,23°C - 29°C,73%,68 mm
+arunachal pradesh,2023,Dec,21°C - 28°C,72%,17 mm
+arunachal pradesh,2024,Jan,20°C - 28°C,71%,9 mm
+arunachal pradesh,2024,Feb,20°C - 32°C,65%,4 mm
+arunachal pradesh,2024,Mar,23°C - 36°C,54%,14 mm
+arunachal pradesh,2024,Apr,28°C - 39°C,57%,52 mm
+arunachal pradesh,2024,May,28°C - 38°C,67%,190 mm
+arunachal pradesh,2024,Jun,28°C - 35°C,74%,133 mm
+arunachal pradesh,2024,Jul,27°C - 33°C,81%,171 mm
+arunachal pradesh,2024,Aug,26°C - 32°C,83%,180 mm
+arunachal pradesh,2024,Sep,26°C - 31°C,79%,152 mm
+arunachal pradesh,2024,Oct,25°C - 31°C,75%,106 mm
+arunachal pradesh,2024,Nov,23°C - 29°C,73%,76 mm
+arunachal pradesh,2024,Dec,21°C - 28°C,72%,19 mm
+arunachal pradesh,2025,Jan,20°C - 28°C,72%,~10 mm
+arunachal pradesh,2025,Feb,20°C - 32°C,66%,~5 mm
+arunachal pradesh,2025,Mar,23°C - 36°C,55%,~15 mm
+arunachal pradesh,2025,Apr,28°C - 39°C,58%,~55 mm
+arunachal pradesh,2025,May,28°C - 38°C,68%,~200 mm
+arunachal pradesh,2025,Jun,28°C - 35°C,75%,~140 mm
+arunachal pradesh,2025,Jul,27°C - 33°C,82%,~180 mm
+arunachal pradesh,2025,Aug,26°C - 32°C,84%,~190 mm
+arunachal pradesh,2025,Sep,26°C - 31°C,80%,~160 mm
+arunachal pradesh,2025,Oct,25°C - 31°C,76%,~112 mm
+arunachal pradesh,2025,Nov,23°C - 29°C,74%,~80 mm
+arunachal pradesh,2025,Dec,21°C - 28°C,73%,~20 mm
+assam,2021,Jan,11°C - 23°C,78%,11 mm
+assam,2021,Feb,13°C - 23°C,80%,16 mm
+assam,2021,Mar,16°C - 24°C,80%,55 mm
+assam,2021,Apr,21°C - 28°C,80%,181 mm
+assam,2021,May,23°C - 28°C,86%,267 mm
+assam,2021,Jun,25°C - 31°C,87%,341 mm
+assam,2021,Jul,26°C - 32°C,85%,363 mm
+assam,2021,Aug,24°C - 30°C,89%,286 mm
+assam,2021,Sep,24°C - 32°C,84%,215 mm
+assam,2021,Oct,21°C - 30°C,81%,99 mm
+assam,2021,Nov,16°C - 28°C,74%,16 mm
+assam,2021,Dec,10°C - 25°C,70%,5 mm
+assam,2022,Jan,11°C - 23°C,77%,12 mm
+assam,2022,Feb,13°C - 23°C,79%,18 mm
+assam,2022,Mar,16°C - 24°C,79%,60 mm
+assam,2022,Apr,21°C - 28°C,79%,198 mm
+assam,2022,May,23°C - 28°C,85%,291 mm
+assam,2022,Jun,25°C - 31°C,86%,372 mm
+assam,2022,Jul,26°C - 32°C,84%,396 mm
+assam,2022,Aug,24°C - 30°C,88%,312 mm
+assam,2022,Sep,24°C - 32°C,83%,235 mm
+assam,2022,Oct,21°C - 30°C,80%,108 mm
+assam,2022,Nov,16°C - 28°C,73%,18 mm
+assam,2022,Dec,10°C - 25°C,69%,6 mm
+assam,2023,Jan,12°C - 24°C,76%,8 mm
+assam,2023,Feb,14°C - 24°C,78%,12 mm
+assam,2023,Mar,17°C - 25°C,78%,42 mm
+assam,2023,Apr,22°C - 29°C,78%,140 mm
+assam,2023,May,24°C - 29°C,84%,206 mm
+assam,2023,Jun,26°C - 32°C,85%,263 mm
+assam,2023,Jul,27°C - 33°C,83%,280 mm
+assam,2023,Aug,25°C - 31°C,87%,221 mm
+assam,2023,Sep,25°C - 33°C,82%,166 mm
+assam,2023,Oct,22°C - 31°C,79%,76 mm
+assam,2023,Nov,17°C - 29°C,72%,12 mm
+assam,2023,Dec,11°C - 26°C,68%,4 mm
+assam,2024,Jan,12°C - 24°C,76%,9 mm
+assam,2024,Feb,14°C - 24°C,78%,14 mm
+assam,2024,Mar,17°C - 25°C,78%,47 mm
+assam,2024,Apr,22°C - 29°C,78%,156 mm
+assam,2024,May,24°C - 29°C,84%,230 mm
+assam,2024,Jun,26°C - 32°C,85%,294 mm
+assam,2024,Jul,27°C - 33°C,83%,313 mm
+assam,2024,Aug,25°C - 31°C,87%,247 mm
+assam,2024,Sep,25°C - 33°C,82%,186 mm
+assam,2024,Oct,22°C - 31°C,79%,85 mm
+assam,2024,Nov,17°C - 29°C,72%,14 mm
+assam,2024,Dec,11°C - 26°C,68%,4 mm
+assam,2025,Jan,12°C - 24°C,77%,10 mm
+assam,2025,Feb,14°C - 24°C,79%,15 mm
+assam,2025,Mar,17°C - 25°C,79%,50 mm
+assam,2025,Apr,22°C - 29°C,79%,165 mm
+assam,2025,May,24°C - 29°C,85%,243 mm
+assam,2025,Jun,26°C - 32°C,86%,310 mm
+assam,2025,Jul,27°C - 33°C,84%,330 mm
+assam,2025,Aug,25°C - 31°C,88%,260 mm
+assam,2025,Sep,25°C - 33°C,83%,196 mm
+assam,2025,Oct,22°C - 31°C,80%,90 mm
+assam,2025,Nov,17°C - 29°C,73%,15 mm
+assam,2025,Dec,11°C - 26°C,69%,5 mm
+bihar,2021,Jan,8°C - 23°C,66%,12 mm
+bihar,2021,Feb,11°C - 27°C,53%,15 mm
+bihar,2021,Mar,16°C - 32°C,38%,11 mm
+bihar,2021,Apr,21°C - 37°C,33%,14 mm
+bihar,2021,May,24°C - 39°C,43%,48 mm
+bihar,2021,Jun,26°C - 36°C,60%,178 mm
+bihar,2021,Jul,25°C - 32°C,76%,389 mm
+bihar,2021,Aug,25°C - 32°C,76%,305 mm
+bihar,2021,Sep,24°C - 31°C,77%,217 mm
+bihar,2021,Oct,20°C - 30°C,69%,55 mm
+bihar,2021,Nov,14°C - 28°C,68%,7 mm
+bihar,2021,Dec,9°C - 23°C,70%,6 mm
+bihar,2022,Jan,8°C - 23°C,65%,6 mm
+bihar,2022,Feb,11°C - 27°C,52%,8 mm
+bihar,2022,Mar,16°C - 32°C,37%,6 mm
+bihar,2022,Apr,21°C - 37°C,32%,7 mm
+bihar,2022,May,24°C - 39°C,42%,26 mm
+bihar,2022,Jun,26°C - 36°C,59%,97 mm
+bihar,2022,Jul,25°C - 32°C,75%,212 mm
+bihar,2022,Aug,25°C - 32°C,75%,166 mm
+bihar,2022,Sep,24°C - 31°C,76%,118 mm
+bihar,2022,Oct,20°C - 30°C,68%,30 mm
+bihar,2022,Nov,14°C - 28°C,67%,4 mm
+bihar,2022,Dec,9°C - 23°C,69%,3 mm
+bihar,2023,Jan,9°C - 24°C,64%,9 mm
+bihar,2023,Feb,12°C - 28°C,51%,11 mm
+bihar,2023,Mar,17°C - 33°C,36%,8 mm
+bihar,2023,Apr,22°C - 38°C,31%,11 mm
+bihar,2023,May,25°C - 40°C,41%,37 mm
+bihar,2023,Jun,27°C - 37°C,58%,137 mm
+bihar,2023,Jul,26°C - 33°C,74%,300 mm
+bihar,2023,Aug,26°C - 33°C,74%,236 mm
+bihar,2023,Sep,25°C - 32°C,75%,168 mm
+bihar,2023,Oct,21°C - 31°C,67%,42 mm
+bihar,2023,Nov,15°C - 29°C,66%,5 mm
+bihar,2023,Dec,10°C - 24°C,68%,5 mm
+bihar,2024,Jan,9°C - 24°C,64%,10 mm
+bihar,2024,Feb,12°C - 28°C,51%,13 mm
+bihar,2024,Mar,17°C - 33°C,36%,9 mm
+bihar,2024,Apr,22°C - 38°C,31%,12 mm
+bihar,2024,May,25°C - 40°C,41%,41 mm
+bihar,2024,Jun,27°C - 37°C,58%,153 mm
+bihar,2024,Jul,26°C - 33°C,74%,336 mm
+bihar,2024,Aug,26°C - 33°C,74%,264 mm
+bihar,2024,Sep,25°C - 32°C,75%,188 mm
+bihar,2024,Oct,21°C - 31°C,67%,47 mm
+bihar,2024,Nov,15°C - 29°C,66%,6 mm
+bihar,2024,Dec,10°C - 24°C,68%,5 mm
+bihar,2025,Jan,9°C - 24°C,65%,11 mm
+bihar,2025,Feb,12°C - 28°C,52%,14 mm
+bihar,2025,Mar,17°C - 33°C,37%,10 mm
+bihar,2025,Apr,22°C - 38°C,32%,13 mm
+bihar,2025,May,25°C - 40°C,42%,44 mm
+bihar,2025,Jun,27°C - 37°C,59%,162 mm
+bihar,2025,Jul,26°C - 33°C,75%,354 mm
+bihar,2025,Aug,26°C - 33°C,75%,278 mm
+bihar,2025,Sep,25°C - 32°C,76%,198 mm
+bihar,2025,Oct,21°C - 31°C,68%,50 mm
+bihar,2025,Nov,15°C - 29°C,67%,7 mm
+bihar,2025,Dec,10°C - 24°C,69%,6 mm
+chattisgarh,2021,Jan,12°C - 27°C,55%,8 mm
+chattisgarh,2021,Feb,15°C - 31°C,49%,13 mm
+chattisgarh,2021,Mar,20°C - 35°C,39%,16 mm
+chattisgarh,2021,Apr,25°C - 40°C,29%,22 mm
+chattisgarh,2021,May,27°C - 41°C,36%,49 mm
+chattisgarh,2021,Jun,26°C - 35°C,63%,203 mm
+chattisgarh,2021,Jul,24°C - 30°C,83%,396 mm
+chattisgarh,2021,Aug,23°C - 29°C,86%,379 mm
+chattisgarh,2021,Sep,23°C - 30°C,82%,231 mm
+chattisgarh,2021,Oct,20°C - 31°C,71%,71 mm
+chattisgarh,2021,Nov,15°C - 29°C,63%,11 mm
+chattisgarh,2021,Dec,12°C - 27°C,59%,5 mm
+chattisgarh,2022,Jan,12°C - 27°C,54%,9 mm
+chattisgarh,2022,Feb,15°C - 31°C,48%,14 mm
+chattisgarh,2022,Mar,20°C - 35°C,38%,18 mm
+chattisgarh,2022,Apr,25°C - 40°C,28%,24 mm
+chattisgarh,2022,May,27°C - 41°C,35%,54 mm
+chattisgarh,2022,Jun,26°C - 35°C,62%,222 mm
+chattisgarh,2022,Jul,24°C - 30°C,82%,432 mm
+chattisgarh,2022,Aug,23°C - 29°C,85%,414 mm
+chattisgarh,2022,Sep,23°C - 30°C,81%,252 mm
+chattisgarh,2022,Oct,20°C - 31°C,70%,78 mm
+chattisgarh,2022,Nov,15°C - 29°C,62%,12 mm
+chattisgarh,2022,Dec,12°C - 27°C,58%,6 mm
+chattisgarh,2023,Jan,13°C - 28°C,53%,6 mm
+chattisgarh,2023,Feb,16°C - 32°C,47%,10 mm
+chattisgarh,2023,Mar,21°C - 36°C,37%,12 mm
+chattisgarh,2023,Apr,26°C - 41°C,27%,17 mm
+chattisgarh,2023,May,28°C - 42°C,34%,38 mm
+chattisgarh,2023,Jun,27°C - 36°C,61%,157 mm
+chattisgarh,2023,Jul,25°C - 31°C,81%,306 mm
+chattisgarh,2023,Aug,24°C - 30°C,84%,293 mm
+chattisgarh,2023,Sep,24°C - 31°C,80%,178 mm
+chattisgarh,2023,Oct,21°C - 32°C,69%,55 mm
+chattisgarh,2023,Nov,16°C - 30°C,61%,8 mm
+chattisgarh,2023,Dec,13°C - 28°C,57%,4 mm
+chattisgarh,2024,Jan,13°C - 28°C,53%,7 mm
+chattisgarh,2024,Feb,16°C - 32°C,47%,11 mm
+chattisgarh,2024,Mar,21°C - 36°C,37%,14 mm
+chattisgarh,2024,Apr,26°C - 41°C,27%,19 mm
+chattisgarh,2024,May,28°C - 42°C,34%,42 mm
+chattisgarh,2024,Jun,27°C - 36°C,61%,175 mm
+chattisgarh,2024,Jul,25°C - 31°C,81%,342 mm
+chattisgarh,2024,Aug,24°C - 30°C,84%,327 mm
+chattisgarh,2024,Sep,24°C - 31°C,80%,199 mm
+chattisgarh,2024,Oct,21°C - 32°C,69%,61 mm
+chattisgarh,2024,Nov,16°C - 30°C,61%,9 mm
+chattisgarh,2024,Dec,13°C - 28°C,57%,4 mm
+chattisgarh,2025,Jan,13°C - 28°C,54%,8 mm
+chattisgarh,2025,Feb,16°C - 32°C,48%,12 mm
+chattisgarh,2025,Mar,21°C - 36°C,38%,15 mm
+chattisgarh,2025,Apr,26°C - 41°C,28%,20 mm
+chattisgarh,2025,May,28°C - 42°C,35%,45 mm
+chattisgarh,2025,Jun,27°C - 36°C,62%,185 mm
+chattisgarh,2025,Jul,25°C - 31°C,82%,360 mm
+chattisgarh,2025,Aug,24°C - 30°C,85%,345 mm
+chattisgarh,2025,Sep,24°C - 31°C,81%,210 mm
+chattisgarh,2025,Oct,21°C - 32°C,70%,65 mm
+chattisgarh,2025,Nov,16°C - 30°C,62%,10 mm
+chattisgarh,2025,Dec,13°C - 28°C,58%,5 mm
+Delhi,2021,Jan,8°C - 21°C,0.8,47 mm
+Delhi,2021,Feb,11°C - 26°C,0.69,1.4 mm
+Delhi,2021,Mar,16°C - 31°C,0.59,3.6 mm
+Delhi,2021,Apr,22°C - 37°C,0.35,3.8 mm
+Delhi,2021,May,26°C - 41°C,0.42,144 mm
+Delhi,2021,Jun,28°C - 39°C,0.54,35 mm
+Delhi,2021,Jul,27°C - 36°C,0.74,507 mm
+Delhi,2021,Aug,26°C - 34°C,0.76,215 mm
+Delhi,2021,Sep,25°C - 34°C,0.7,413 mm
+Delhi,2021,Oct,20°C - 33°C,0.63,123 mm
+Delhi,2021,Nov,14°C - 28°C,0.67,0 mm
+Delhi,2021,Dec,10°C - 23°C,0.74,5 mm
+Delhi,2022,Jan,9°C - 17°C,0.89,88 mm
+Delhi,2022,Feb,12°C - 23°C,0.72,30 mm
+Delhi,2022,Mar,19°C - 32°C,0.56,0 mm
+Delhi,2022,Apr,26°C - 40°C,0.2,0.3 mm
+Delhi,2022,May,28°C - 40°C,0.43,48 mm
+Delhi,2022,Jun,29°C - 40°C,0.39,25 mm
+Delhi,2022,Jul,28°C - 34°C,0.75,286 mm
+Delhi,2022,Aug,27°C - 34°C,0.75,42 mm
+Delhi,2022,Sep,26°C - 33°C,0.75,165 mm
+Delhi,2022,Oct,21°C - 30°C,0.75,129 mm
+Delhi,2022,Nov,16°C - 27°C,0.64,0 mm
+Delhi,2022,Dec,10°C - 22°C,0.72,0 mm
+Delhi,2023,Jan,8°C - 17°C,0.81,20 mm
+Delhi,2023,Feb,13°C - 27°C,0.62,5 mm
+Delhi,2023,Mar,18°C - 29°C,0.57,48 mm
+Delhi,2023,Apr,22°C - 34°C,0.38,21 mm
+Delhi,2023,May,24°C - 36°C,0.45,111 mm
+Delhi,2023,Jun,27°C - 36°C,0.52,102 mm
+Delhi,2023,Jul,27°C - 33°C,0.8,384 mm
+Delhi,2023,Aug,28°C - 33°C,0.78,91 mm
+Delhi,2023,Sep,26°C - 33°C,0.74,105 mm
+Delhi,2023,Oct,21°C - 33°C,0.55,5 mm
+Delhi,2023,Nov,15°C - 28°C,0.58,3 mm
+Delhi,2023,Dec,10°C - 24°C,0.65,1 mm
+Delhi,2024,Jan,8°C - 16°C,0.86,0.5 mm
+Delhi,2024,Feb,11°C - 23°C,0.66,18 mm
+Delhi,2024,Mar,16°C - 31°C,0.48,5 mm
+Delhi,2024,Apr,23°C - 38°C,0.25,29 mm
+Delhi,2024,May,28°C - 41°C,0.22,3 mm
+Delhi,2024,Jun,30°C - 41°C,0.48,235 mm
+Delhi,2024,Jul,27°C - 33°C,0.82,245 mm
+Delhi,2024,Aug,27°C - 32°C,0.85,300 mm
+Delhi,2024,Sep,25°C - 32°C,0.8,190 mm
+Delhi,2024,Oct,23°C - 33°C,0.58,0 mm
+Delhi,2024,Nov,16°C - 28°C,0.54,0 mm
+Delhi,2024,Dec,11°C - 24°C,0.64,1 mm
+Delhi,2025,Jan,9°C - 20°C,0.81,10 mm
+Delhi,2025,Feb,12°C - 25°C,0.62,4 mm
+Delhi,2025,Mar,16°C - 31°C,0.45,20 mm
+Delhi,2025,Apr,24°C - 42°C,0.28,2 mm
+Delhi,2025,May,29°C - 41°C,0.32,15 mm
+Delhi,2025,Jun,28°C - 37°C,0.55,90 mm
+Delhi,2025,Jul,28°C - 35°C,0.78,210 mm
+Delhi,2025,Aug,27°C - 32°C,0.83,265 mm
+Delhi,2025,Sep,26°C - 32°C,0.78,140 mm
+Delhi,2025,Oct,20°C - 31°C,0.62,89 mm
+Delhi,2025,Nov,15°C - 28°C,0.55,0 mm
+Delhi,2025,Dec,11°C - 24°C,0.66,2 mm
+goa,2021,Jan,19°C - 31°C,67%,0 mm
+goa,2021,Feb,20°C - 31°C,69%,0 mm
+goa,2021,Mar,22°C - 32°C,71%,1 mm
+goa,2021,Apr,25°C - 33°C,73%,13 mm
+goa,2021,May,26°C - 33°C,76%,99 mm
+goa,2021,Jun,24°C - 29°C,89%,957 mm
+goa,2021,Jul,23°C - 28°C,93%,1094 mm
+goa,2021,Aug,23°C - 28°C,91%,792 mm
+goa,2021,Sep,23°C - 29°C,87%,451 mm
+goa,2021,Oct,23°C - 31°C,79%,176 mm
+goa,2021,Nov,22°C - 32°C,71%,38 mm
+goa,2021,Dec,20°C - 32°C,68%,2 mm
+goa,2022,Jan,19°C - 31°C,66%,0 mm
+goa,2022,Feb,20°C - 31°C,68%,0 mm
+goa,2022,Mar,22°C - 32°C,70%,1 mm
+goa,2022,Apr,25°C - 33°C,72%,14 mm
+goa,2022,May,26°C - 33°C,75%,108 mm
+goa,2022,Jun,24°C - 29°C,88%,1044 mm
+goa,2022,Jul,23°C - 28°C,92%,1194 mm
+goa,2022,Aug,23°C - 28°C,90%,864 mm
+goa,2022,Sep,23°C - 29°C,86%,492 mm
+goa,2022,Oct,23°C - 31°C,78%,192 mm
+goa,2022,Nov,22°C - 32°C,70%,42 mm
+goa,2022,Dec,20°C - 32°C,67%,2 mm
+goa,2023,Jan,20°C - 32°C,65%,0 mm
+goa,2023,Feb,21°C - 32°C,67%,0 mm
+goa,2023,Mar,23°C - 33°C,69%,0 mm
+goa,2023,Apr,26°C - 34°C,71%,10 mm
+goa,2023,May,27°C - 34°C,74%,76 mm
+goa,2023,Jun,25°C - 30°C,87%,739 mm
+goa,2023,Jul,24°C - 29°C,91%,845 mm
+goa,2023,Aug,24°C - 29°C,89%,612 mm
+goa,2023,Sep,24°C - 30°C,85%,348 mm
+goa,2023,Oct,24°C - 32°C,77%,136 mm
+goa,2023,Nov,23°C - 33°C,69%,29 mm
+goa,2023,Dec,21°C - 33°C,66%,1 mm
+goa,2024,Jan,20°C - 32°C,65%,0 mm
+goa,2024,Feb,21°C - 32°C,67%,0 mm
+goa,2024,Mar,23°C - 33°C,69%,0 mm
+goa,2024,Apr,26°C - 34°C,71%,11 mm
+goa,2024,May,27°C - 34°C,74%,85 mm
+goa,2024,Jun,25°C - 30°C,87%,826 mm
+goa,2024,Jul,24°C - 29°C,91%,945 mm
+goa,2024,Aug,24°C - 29°C,89%,684 mm
+goa,2024,Sep,24°C - 30°C,85%,389 mm
+goa,2024,Oct,24°C - 32°C,77%,152 mm
+goa,2024,Nov,23°C - 33°C,69%,33 mm
+goa,2024,Dec,21°C - 33°C,66%,1 mm
+goa,2025,Jan,20°C - 32°C,66%,0 mm
+goa,2025,Feb,21°C - 32°C,68%,0 mm
+goa,2025,Mar,23°C - 33°C,70%,1 mm
+goa,2025,Apr,26°C - 34°C,72%,12 mm
+goa,2025,May,27°C - 34°C,75%,90 mm
+goa,2025,Jun,25°C - 30°C,88%,870 mm
+goa,2025,Jul,24°C - 29°C,92%,995 mm
+goa,2025,Aug,24°C - 29°C,90%,720 mm
+goa,2025,Sep,24°C - 30°C,86%,410 mm
+goa,2025,Oct,24°C - 32°C,78%,160 mm
+goa,2025,Nov,23°C - 33°C,70%,35 mm
+goa,2025,Dec,21°C - 33°C,67%,2 mm
+Gujarat,2021,Jan,11°C - 27°C,50%,1 mm
+Gujarat,2021,Feb,13°C - 30°C,44%,1 mm
+Gujarat,2021,Mar,19°C - 35°C,38%,1 mm
+Gujarat,2021,Apr,23°C - 39°C,42%,3 mm
+Gujarat,2021,May,26°C - 41°C,48%,139 mm
+Gujarat,2021,Jun,27°C - 38°C,63%,93 mm
+Gujarat,2021,Jul,25°C - 33°C,78%,341 mm
+Gujarat,2021,Aug,24°C - 31°C,82%,266 mm
+Gujarat,2021,Sep,24°C - 33°C,72%,132 mm
+Gujarat,2021,Oct,20°C - 35°C,54%,14 mm
+Gujarat,2021,Nov,16°C - 32°C,49%,2 mm
+Gujarat,2021,Dec,12°C - 29°C,51%,1 mm
+Gujarat,2022,Jan,11°C - 27°C,49%,1 mm
+Gujarat,2022,Feb,13°C - 30°C,43%,1 mm
+Gujarat,2022,Mar,19°C - 35°C,37%,1 mm
+Gujarat,2022,Apr,23°C - 39°C,41%,3 mm
+Gujarat,2022,May,26°C - 41°C,47%,152 mm
+Gujarat,2022,Jun,27°C - 38°C,62%,102 mm
+Gujarat,2022,Jul,25°C - 33°C,77%,372 mm
+Gujarat,2022,Aug,24°C - 31°C,81%,290 mm
+Gujarat,2022,Sep,24°C - 33°C,71%,144 mm
+Gujarat,2022,Oct,20°C - 35°C,53%,15 mm
+Gujarat,2022,Nov,16°C - 32°C,48%,2 mm
+Gujarat,2022,Dec,12°C - 29°C,50%,1 mm
+Gujarat,2023,Jan,12°C - 28°C,48%,0 mm
+Gujarat,2023,Feb,14°C - 31°C,42%,0 mm
+Gujarat,2023,Mar,20°C - 36°C,36%,0 mm
+Gujarat,2023,Apr,24°C - 40°C,40%,2 mm
+Gujarat,2023,May,27°C - 42°C,46%,107 mm
+Gujarat,2023,Jun,28°C - 39°C,61%,72 mm
+Gujarat,2023,Jul,26°C - 34°C,76%,263 mm
+Gujarat,2023,Aug,25°C - 32°C,80%,205 mm
+Gujarat,2023,Sep,25°C - 34°C,70%,102 mm
+Gujarat,2023,Oct,21°C - 36°C,52%,11 mm
+Gujarat,2023,Nov,17°C - 33°C,47%,1 mm
+Gujarat,2023,Dec,13°C - 30°C,49%,0 mm
+Gujarat,2024,Jan,12°C - 28°C,48%,0 mm
+Gujarat,2024,Feb,14°C - 31°C,42%,0 mm
+Gujarat,2024,Mar,20°C - 36°C,36%,0 mm
+Gujarat,2024,Apr,24°C - 40°C,40%,2 mm
+Gujarat,2024,May,27°C - 42°C,46%,120 mm
+Gujarat,2024,Jun,28°C - 39°C,61%,80 mm
+Gujarat,2024,Jul,26°C - 34°C,76%,294 mm
+Gujarat,2024,Aug,25°C - 32°C,80%,229 mm
+Gujarat,2024,Sep,25°C - 34°C,70%,114 mm
+Gujarat,2024,Oct,21°C - 36°C,52%,12 mm
+Gujarat,2024,Nov,17°C - 33°C,47%,1 mm
+Gujarat,2024,Dec,13°C - 30°C,49%,0 mm
+Gujarat,2025,Jan,12°C - 28°C,49%,1 mm
+Gujarat,2025,Feb,14°C - 31°C,43%,1 mm
+Gujarat,2025,Mar,20°C - 36°C,37%,1 mm
+Gujarat,2025,Apr,24°C - 40°C,41%,3 mm
+Gujarat,2025,May,27°C - 42°C,47%,127 mm
+Gujarat,2025,Jun,28°C - 39°C,62%,85 mm
+Gujarat,2025,Jul,26°C - 34°C,77%,310 mm
+Gujarat,2025,Aug,25°C - 32°C,81%,242 mm
+Gujarat,2025,Sep,25°C - 34°C,71%,120 mm
+Gujarat,2025,Oct,21°C - 36°C,53%,13 mm
+Gujarat,2025,Nov,17°C - 33°C,48%,2 mm
+Gujarat,2025,Dec,13°C - 30°C,50%,1 mm
+haryana,2021,Jan,8°C - 19°C,58%,6 mm
+haryana,2021,Feb,11°C - 24°C,57%,40 mm
+haryana,2021,Mar,15°C - 30°C,53%,11 mm
+haryana,2021,Apr,21°C - 37°C,39%,16 mm
+haryana,2021,May,26°C - 40°C,37%,52 mm
+haryana,2021,Jun,27°C - 39°C,56%,67 mm
+haryana,2021,Jul,25°C - 34°C,79%,202 mm
+haryana,2021,Aug,24°C - 32°C,83%,213 mm
+haryana,2021,Sep,23°C - 32°C,75%,141 mm
+haryana,2021,Oct,19°C - 31°C,59%,13 mm
+haryana,2021,Nov,13°C - 27°C,56%,2 mm
+haryana,2021,Dec,9°C - 21°C,59%,3 mm
+haryana,2022,Jan,8°C - 19°C,57%,7 mm
+haryana,2022,Feb,11°C - 24°C,56%,44 mm
+haryana,2022,Mar,15°C - 30°C,52%,12 mm
+haryana,2022,Apr,21°C - 37°C,38%,18 mm
+haryana,2022,May,26°C - 40°C,36%,57 mm
+haryana,2022,Jun,27°C - 39°C,55%,73 mm
+haryana,2022,Jul,25°C - 34°C,78%,220 mm
+haryana,2022,Aug,24°C - 32°C,82%,232 mm
+haryana,2022,Sep,23°C - 32°C,74%,154 mm
+haryana,2022,Oct,19°C - 31°C,58%,14 mm
+haryana,2022,Nov,13°C - 27°C,55%,2 mm
+haryana,2022,Dec,9°C - 21°C,58%,3 mm
+haryana,2023,Jan,9°C - 20°C,56%,5 mm
+haryana,2023,Feb,12°C - 25°C,55%,31 mm
+haryana,2023,Mar,16°C - 31°C,51%,8 mm
+haryana,2023,Apr,22°C - 38°C,37%,12 mm
+haryana,2023,May,27°C - 41°C,35%,40 mm
+haryana,2023,Jun,28°C - 40°C,54%,51 mm
+haryana,2023,Jul,26°C - 35°C,77%,156 mm
+haryana,2023,Aug,25°C - 33°C,81%,164 mm
+haryana,2023,Sep,24°C - 33°C,73%,109 mm
+haryana,2023,Oct,20°C - 32°C,57%,10 mm
+haryana,2023,Nov,14°C - 28°C,54%,1 mm
+haryana,2023,Dec,10°C - 22°C,57%,2 mm
+haryana,2024,Jan,9°C - 20°C,56%,5 mm
+haryana,2024,Feb,12°C - 25°C,55%,35 mm
+haryana,2024,Mar,16°C - 31°C,51%,9 mm
+haryana,2024,Apr,22°C - 38°C,37%,14 mm
+haryana,2024,May,27°C - 41°C,35%,45 mm
+haryana,2024,Jun,28°C - 40°C,54%,57 mm
+haryana,2024,Jul,26°C - 35°C,77%,174 mm
+haryana,2024,Aug,25°C - 33°C,81%,184 mm
+haryana,2024,Sep,24°C - 33°C,73%,122 mm
+haryana,2024,Oct,20°C - 32°C,57%,11 mm
+haryana,2024,Nov,14°C - 28°C,54%,1 mm
+haryana,2024,Dec,10°C - 22°C,57%,2 mm
+haryana,2025,Jan,9°C - 20°C,57%,6 mm
+haryana,2025,Feb,12°C - 25°C,56%,37 mm
+haryana,2025,Mar,16°C - 31°C,52%,10 mm
+haryana,2025,Apr,22°C - 38°C,38%,15 mm
+haryana,2025,May,27°C - 41°C,36%,48 mm
+haryana,2025,Jun,28°C - 40°C,55%,61 mm
+haryana,2025,Jul,26°C - 35°C,78%,184 mm
+haryana,2025,Aug,25°C - 33°C,82%,194 mm
+haryana,2025,Sep,24°C - 33°C,74%,129 mm
+haryana,2025,Oct,20°C - 32°C,58%,12 mm
+haryana,2025,Nov,14°C - 28°C,55%,2 mm
+haryana,2025,Dec,10°C - 22°C,58%,3 mm
+Himachal Pradesh,2021,Jan,14°C - 24°C,61%,55 mm
+Himachal Pradesh,2021,Feb,14°C - 24°C,61%,55 mm
+Himachal Pradesh,2021,Mar,4°C - 17°C,59%,122 mm
+Himachal Pradesh,2021,Apr,7°C - 21°C,56%,72 mm
+Himachal Pradesh,2021,May,11°C - 27°C,51%,79 mm
+Himachal Pradesh,2021,Jun,14°C - 29°C,60%,148 mm
+Himachal Pradesh,2021,Jul,13°C - 24°C,82%,405 mm
+Himachal Pradesh,2021,Aug,12°C - 23°C,86%,474 mm
+Himachal Pradesh,2021,Sep,11°C - 21°C,79%,213 mm
+Himachal Pradesh,2021,Oct,7°C - 19°C,66%,58 mm
+Himachal Pradesh,2021,Nov,4°C - 14°C,65%,1 mm
+Himachal Pradesh,2021,Dec,14°C - 24°C,61%,55 mm
+Himachal Pradesh,2022,Jan,14°C - 24°C,60%,60 mm
+Himachal Pradesh,2022,Feb,14°C - 24°C,60%,60 mm
+Himachal Pradesh,2022,Mar,4°C - 17°C,58%,133 mm
+Himachal Pradesh,2022,Apr,7°C - 21°C,55%,79 mm
+Himachal Pradesh,2022,May,11°C - 27°C,50%,86 mm
+Himachal Pradesh,2022,Jun,14°C - 29°C,59%,162 mm
+Himachal Pradesh,2022,Jul,13°C - 24°C,81%,442 mm
+Himachal Pradesh,2022,Aug,12°C - 23°C,85%,517 mm
+Himachal Pradesh,2022,Sep,11°C - 21°C,78%,232 mm
+Himachal Pradesh,2022,Oct,7°C - 19°C,65%,63 mm
+Himachal Pradesh,2022,Nov,4°C - 14°C,64%,1 mm
+Himachal Pradesh,2022,Dec,14°C - 24°C,60%,60 mm
+Himachal Pradesh,2023,Jan,15°C - 25°C,59%,42 mm
+Himachal Pradesh,2023,Feb,15°C - 25°C,59%,42 mm
+Himachal Pradesh,2023,Mar,5°C - 18°C,57%,94 mm
+Himachal Pradesh,2023,Apr,8°C - 22°C,54%,56 mm
+Himachal Pradesh,2023,May,12°C - 28°C,49%,61 mm
+Himachal Pradesh,2023,Jun,15°C - 30°C,58%,114 mm
+Himachal Pradesh,2023,Jul,14°C - 25°C,80%,313 mm
+Himachal Pradesh,2023,Aug,13°C - 24°C,84%,366 mm
+Himachal Pradesh,2023,Sep,12°C - 22°C,77%,164 mm
+Himachal Pradesh,2023,Oct,8°C - 20°C,64%,45 mm
+Himachal Pradesh,2023,Nov,5°C - 15°C,63%,0 mm
+Himachal Pradesh,2023,Dec,15°C - 25°C,59%,42 mm
+Himachal Pradesh,2024,Jan,15°C - 25°C,59%,47 mm
+Himachal Pradesh,2024,Feb,15°C - 25°C,59%,47 mm
+Himachal Pradesh,2024,Mar,5°C - 18°C,57%,105 mm
+Himachal Pradesh,2024,Apr,8°C - 22°C,54%,62 mm
+Himachal Pradesh,2024,May,12°C - 28°C,49%,68 mm
+Himachal Pradesh,2024,Jun,15°C - 30°C,58%,128 mm
+Himachal Pradesh,2024,Jul,14°C - 25°C,80%,350 mm
+Himachal Pradesh,2024,Aug,13°C - 24°C,84%,409 mm
+Himachal Pradesh,2024,Sep,12°C - 22°C,77%,184 mm
+Himachal Pradesh,2024,Oct,8°C - 20°C,64%,50 mm
+Himachal Pradesh,2024,Nov,5°C - 15°C,63%,0 mm
+Himachal Pradesh,2024,Dec,15°C - 25°C,59%,47 mm
+Himachal Pradesh,2025,Jan,-5°C - 10°C,67%,13 mm
+Himachal Pradesh,2025,Feb,-3°C - 12°C,67%,125 mm
+Himachal Pradesh,2025,Mar,5°C - 18°C,58%,111 mm
+Himachal Pradesh,2025,Apr,8°C - 22°C,55%,66 mm
+Himachal Pradesh,2025,May,12°C - 28°C,50%,72 mm
+Himachal Pradesh,2025,Jun,15°C - 30°C,59%,135 mm
+Himachal Pradesh,2025,Jul,14°C - 25°C,81%,369 mm
+Himachal Pradesh,2025,Aug,13°C - 24°C,85%,431 mm
+Himachal Pradesh,2025,Sep,12°C - 22°C,78%,194 mm
+Himachal Pradesh,2025,Oct,8°C - 20°C,65%,53 mm
+Himachal Pradesh,2025,Nov,5°C - 15°C,64%,1 mm
+Himachal Pradesh,2025,Dec,-2°C - 10°C,66%,37 mm
+jharkhand,2021,Jan,9°C - 24°C,59%,4 mm
+jharkhand,2021,Feb,12°C - 28°C,46%,8 mm
+jharkhand,2021,Mar,17°C - 34°C,33%,13 mm
+jharkhand,2021,Apr,22°C - 39°C,29%,27 mm
+jharkhand,2021,May,25°C - 40°C,36%,112 mm
+jharkhand,2021,Jun,25°C - 35°C,66%,214 mm
+jharkhand,2021,Jul,24°C - 31°C,83%,374 mm
+jharkhand,2021,Aug,24°C - 30°C,85%,346 mm
+jharkhand,2021,Sep,23°C - 31°C,81%,242 mm
+jharkhand,2021,Oct,19°C - 30°C,73%,203 mm
+jharkhand,2021,Nov,13°C - 28°C,61%,5 mm
+jharkhand,2021,Dec,9°C - 25°C,63%,2 mm
+jharkhand,2022,Jan,9°C - 24°C,58%,4 mm
+jharkhand,2022,Feb,12°C - 28°C,45%,9 mm
+jharkhand,2022,Mar,17°C - 34°C,32%,14 mm
+jharkhand,2022,Apr,22°C - 39°C,28%,30 mm
+jharkhand,2022,May,25°C - 40°C,35%,122 mm
+jharkhand,2022,Jun,25°C - 35°C,65%,234 mm
+jharkhand,2022,Jul,24°C - 31°C,82%,408 mm
+jharkhand,2022,Aug,24°C - 30°C,84%,378 mm
+jharkhand,2022,Sep,23°C - 31°C,80%,264 mm
+jharkhand,2022,Oct,19°C - 30°C,72%,222 mm
+jharkhand,2022,Nov,13°C - 28°C,60%,6 mm
+jharkhand,2022,Dec,9°C - 25°C,62%,2 mm
+jharkhand,2023,Jan,10°C - 25°C,57%,3 mm
+jharkhand,2023,Feb,13°C - 29°C,44%,6 mm
+jharkhand,2023,Mar,18°C - 35°C,31%,10 mm
+jharkhand,2023,Apr,23°C - 40°C,27%,21 mm
+jharkhand,2023,May,26°C - 41°C,34%,86 mm
+jharkhand,2023,Jun,26°C - 36°C,64%,165 mm
+jharkhand,2023,Jul,25°C - 32°C,81%,289 mm
+jharkhand,2023,Aug,25°C - 31°C,83%,267 mm
+jharkhand,2023,Sep,24°C - 32°C,79%,187 mm
+jharkhand,2023,Oct,20°C - 31°C,71%,157 mm
+jharkhand,2023,Nov,14°C - 29°C,59%,4 mm
+jharkhand,2023,Dec,10°C - 26°C,61%,1 mm
+jharkhand,2024,Jan,10°C - 25°C,57%,3 mm
+jharkhand,2024,Feb,13°C - 29°C,44%,7 mm
+jharkhand,2024,Mar,18°C - 35°C,31%,11 mm
+jharkhand,2024,Apr,23°C - 40°C,27%,23 mm
+jharkhand,2024,May,26°C - 41°C,34%,96 mm
+jharkhand,2024,Jun,26°C - 36°C,64%,185 mm
+jharkhand,2024,Jul,25°C - 32°C,81%,323 mm
+jharkhand,2024,Aug,25°C - 31°C,83%,299 mm
+jharkhand,2024,Sep,24°C - 32°C,79%,209 mm
+jharkhand,2024,Oct,20°C - 31°C,71%,175 mm
+jharkhand,2024,Nov,14°C - 29°C,59%,4 mm
+jharkhand,2024,Dec,10°C - 26°C,61%,1 mm
+jharkhand,2025,Jan,10°C - 25°C,58%,4 mm
+jharkhand,2025,Feb,13°C - 29°C,45%,8 mm
+jharkhand,2025,Mar,18°C - 35°C,32%,12 mm
+jharkhand,2025,Apr,23°C - 40°C,28%,25 mm
+jharkhand,2025,May,26°C - 41°C,35%,102 mm
+jharkhand,2025,Jun,26°C - 36°C,65%,195 mm
+jharkhand,2025,Jul,25°C - 32°C,82%,340 mm
+jharkhand,2025,Aug,25°C - 31°C,84%,315 mm
+jharkhand,2025,Sep,24°C - 32°C,80%,220 mm
+jharkhand,2025,Oct,20°C - 31°C,72%,185 mm
+jharkhand,2025,Nov,14°C - 29°C,60%,5 mm
+jharkhand,2025,Dec,10°C - 26°C,62%,2 mm
+karnataka,2021,Jan,15°C - 29°C,56%,1 mm
+karnataka,2021,Feb,17°C - 31°C,49%,2 mm
+karnataka,2021,Mar,20°C - 34°C,43%,13 mm
+karnataka,2021,Apr,22°C - 35°C,55%,49 mm
+karnataka,2021,May,22°C - 33°C,69%,143 mm
+karnataka,2021,Jun,20°C - 28°C,83%,231 mm
+karnataka,2021,Jul,19°C - 26°C,87%,319 mm
+karnataka,2021,Aug,19°C - 27°C,85%,264 mm
+karnataka,2021,Sep,20°C - 28°C,79%,198 mm
+karnataka,2021,Oct,19°C - 29°C,75%,181 mm
+karnataka,2021,Nov,17°C - 28°C,66%,55 mm
+karnataka,2021,Dec,15°C - 28°C,61%,11 mm
+karnataka,2022,Jan,15°C - 29°C,55%,1 mm
+karnataka,2022,Feb,17°C - 31°C,48%,2 mm
+karnataka,2022,Mar,20°C - 34°C,42%,14 mm
+karnataka,2022,Apr,22°C - 35°C,54%,54 mm
+karnataka,2022,May,22°C - 33°C,68%,156 mm
+karnataka,2022,Jun,20°C - 28°C,82%,252 mm
+karnataka,2022,Jul,19°C - 26°C,86%,348 mm
+karnataka,2022,Aug,19°C - 27°C,84%,288 mm
+karnataka,2022,Sep,20°C - 28°C,78%,216 mm
+karnataka,2022,Oct,19°C - 29°C,74%,198 mm
+karnataka,2022,Nov,17°C - 28°C,65%,60 mm
+karnataka,2022,Dec,15°C - 28°C,60%,12 mm
+karnataka,2023,Jan,16°C - 30°C,54%,0 mm
+karnataka,2023,Feb,18°C - 32°C,47%,1 mm
+karnataka,2023,Mar,21°C - 35°C,41%,10 mm
+karnataka,2023,Apr,23°C - 36°C,53%,38 mm
+karnataka,2023,May,23°C - 34°C,67%,110 mm
+karnataka,2023,Jun,21°C - 29°C,81%,178 mm
+karnataka,2023,Jul,20°C - 27°C,85%,246 mm
+karnataka,2023,Aug,20°C - 28°C,83%,204 mm
+karnataka,2023,Sep,21°C - 29°C,77%,153 mm
+karnataka,2023,Oct,20°C - 30°C,73%,140 mm
+karnataka,2023,Nov,18°C - 29°C,64%,42 mm
+karnataka,2023,Dec,16°C - 29°C,59%,8 mm
+karnataka,2024,Jan,16°C - 30°C,54%,0 mm
+karnataka,2024,Feb,18°C - 32°C,47%,1 mm
+karnataka,2024,Mar,21°C - 35°C,41%,11 mm
+karnataka,2024,Apr,23°C - 36°C,53%,42 mm
+karnataka,2024,May,23°C - 34°C,67%,123 mm
+karnataka,2024,Jun,21°C - 29°C,81%,199 mm
+karnataka,2024,Jul,20°C - 27°C,85%,275 mm
+karnataka,2024,Aug,20°C - 28°C,83%,228 mm
+karnataka,2024,Sep,21°C - 29°C,77%,171 mm
+karnataka,2024,Oct,20°C - 30°C,73%,156 mm
+karnataka,2024,Nov,18°C - 29°C,64%,47 mm
+karnataka,2024,Dec,16°C - 29°C,59%,9 mm
+karnataka,2025,Jan,16°C - 30°C,55%,1 mm
+karnataka,2025,Feb,18°C - 32°C,48%,2 mm
+karnataka,2025,Mar,21°C - 35°C,42%,12 mm
+karnataka,2025,Apr,23°C - 36°C,54%,45 mm
+karnataka,2025,May,23°C - 34°C,68%,130 mm
+karnataka,2025,Jun,21°C - 29°C,82%,210 mm
+karnataka,2025,Jul,20°C - 27°C,86%,290 mm
+karnataka,2025,Aug,20°C - 28°C,84%,240 mm
+karnataka,2025,Sep,21°C - 29°C,78%,180 mm
+karnataka,2025,Oct,20°C - 30°C,74%,165 mm
+karnataka,2025,Nov,18°C - 29°C,65%,50 mm
+karnataka,2025,Dec,16°C - 29°C,60%,10 mm
+kerala,2021,Jan,21°C - 31°C,66%,8 mm
+kerala,2021,Feb,22°C - 32°C,69%,16 mm
+kerala,2021,Mar,24°C - 33°C,71%,38 mm
+kerala,2021,Apr,25°C - 33°C,75%,121 mm
+kerala,2021,May,25°C - 32°C,79%,308 mm
+kerala,2021,Jun,23°C - 29°C,89%,682 mm
+kerala,2021,Jul,22°C - 28°C,93%,781 mm
+kerala,2021,Aug,23°C - 28°C,91%,473 mm
+kerala,2021,Sep,23°C - 29°C,87%,319 mm
+kerala,2021,Oct,22°C - 30°C,83%,341 mm
+kerala,2021,Nov,22°C - 30°C,77%,198 mm
+kerala,2021,Dec,21°C - 31°C,71%,44 mm
+kerala,2022,Jan,21°C - 31°C,65%,9 mm
+kerala,2022,Feb,22°C - 32°C,68%,18 mm
+kerala,2022,Mar,24°C - 33°C,70%,42 mm
+kerala,2022,Apr,25°C - 33°C,74%,132 mm
+kerala,2022,May,25°C - 32°C,78%,336 mm
+kerala,2022,Jun,23°C - 29°C,88%,744 mm
+kerala,2022,Jul,22°C - 28°C,92%,852 mm
+kerala,2022,Aug,23°C - 28°C,90%,516 mm
+kerala,2022,Sep,23°C - 29°C,86%,348 mm
+kerala,2022,Oct,22°C - 30°C,82%,372 mm
+kerala,2022,Nov,22°C - 30°C,76%,216 mm
+kerala,2022,Dec,21°C - 31°C,70%,48 mm
+kerala,2023,Jan,22°C - 32°C,64%,6 mm
+kerala,2023,Feb,23°C - 33°C,67%,12 mm
+kerala,2023,Mar,25°C - 34°C,69%,29 mm
+kerala,2023,Apr,26°C - 34°C,73%,93 mm
+kerala,2023,May,26°C - 33°C,77%,238 mm
+kerala,2023,Jun,24°C - 30°C,87%,527 mm
+kerala,2023,Jul,23°C - 29°C,91%,603 mm
+kerala,2023,Aug,24°C - 29°C,89%,365 mm
+kerala,2023,Sep,24°C - 30°C,85%,246 mm
+kerala,2023,Oct,23°C - 31°C,81%,263 mm
+kerala,2023,Nov,23°C - 31°C,75%,153 mm
+kerala,2023,Dec,22°C - 32°C,69%,34 mm
+kerala,2024,Jan,22°C - 32°C,64%,7 mm
+kerala,2024,Feb,23°C - 33°C,67%,14 mm
+kerala,2024,Mar,25°C - 34°C,69%,33 mm
+kerala,2024,Apr,26°C - 34°C,73%,104 mm
+kerala,2024,May,26°C - 33°C,77%,266 mm
+kerala,2024,Jun,24°C - 30°C,87%,589 mm
+kerala,2024,Jul,23°C - 29°C,91%,674 mm
+kerala,2024,Aug,24°C - 29°C,89%,408 mm
+kerala,2024,Sep,24°C - 30°C,85%,275 mm
+kerala,2024,Oct,23°C - 31°C,81%,294 mm
+kerala,2024,Nov,23°C - 31°C,75%,171 mm
+kerala,2024,Dec,22°C - 32°C,69%,38 mm
+kerala,2025,Jan,22°C - 32°C,65%,8 mm
+kerala,2025,Feb,23°C - 33°C,68%,15 mm
+kerala,2025,Mar,25°C - 34°C,70%,35 mm
+kerala,2025,Apr,26°C - 34°C,74%,110 mm
+kerala,2025,May,26°C - 33°C,78%,280 mm
+kerala,2025,Jun,24°C - 30°C,88%,620 mm
+kerala,2025,Jul,23°C - 29°C,92%,710 mm
+kerala,2025,Aug,24°C - 29°C,90%,430 mm
+kerala,2025,Sep,24°C - 30°C,86%,290 mm
+kerala,2025,Oct,23°C - 31°C,82%,310 mm
+kerala,2025,Nov,23°C - 31°C,76%,180 mm
+kerala,2025,Dec,22°C - 32°C,70%,40 mm
+madhya pradesh,2021,Jan,9°C - 24°C,53%,13 mm
+madhya pradesh,2021,Feb,12°C - 28°C,45%,11 mm
+madhya pradesh,2021,Mar,17°C - 34°C,31%,8 mm
+madhya pradesh,2021,Apr,22°C - 39°C,26%,5 mm
+madhya pradesh,2021,May,26°C - 41°C,29%,16 mm
+madhya pradesh,2021,Jun,25°C - 36°C,61%,170 mm
+madhya pradesh,2021,Jul,23°C - 30°C,85%,418 mm
+madhya pradesh,2021,Aug,23°C - 29°C,87%,401 mm
+madhya pradesh,2021,Sep,22°C - 30°C,82%,247 mm
+madhya pradesh,2021,Oct,18°C - 31°C,63%,44 mm
+madhya pradesh,2021,Nov,13°C - 28°C,56%,5 mm
+madhya pradesh,2021,Dec,10°C - 25°C,59%,8 mm
+madhya pradesh,2022,Jan,9°C - 24°C,52%,14 mm
+madhya pradesh,2022,Feb,12°C - 28°C,44%,12 mm
+madhya pradesh,2022,Mar,17°C - 34°C,30%,9 mm
+madhya pradesh,2022,Apr,22°C - 39°C,25%,6 mm
+madhya pradesh,2022,May,26°C - 41°C,28%,18 mm
+madhya pradesh,2022,Jun,25°C - 36°C,60%,186 mm
+madhya pradesh,2022,Jul,23°C - 30°C,84%,456 mm
+madhya pradesh,2022,Aug,23°C - 29°C,86%,438 mm
+madhya pradesh,2022,Sep,22°C - 30°C,81%,270 mm
+madhya pradesh,2022,Oct,18°C - 31°C,62%,48 mm
+madhya pradesh,2022,Nov,13°C - 28°C,55%,6 mm
+madhya pradesh,2022,Dec,10°C - 25°C,58%,9 mm
+madhya pradesh,2023,Jan,10°C - 25°C,51%,10 mm
+madhya pradesh,2023,Feb,13°C - 29°C,43%,8 mm
+madhya pradesh,2023,Mar,18°C - 35°C,29%,6 mm
+madhya pradesh,2023,Apr,23°C - 40°C,24%,4 mm
+madhya pradesh,2023,May,27°C - 42°C,27%,12 mm
+madhya pradesh,2023,Jun,26°C - 37°C,59%,131 mm
+madhya pradesh,2023,Jul,24°C - 31°C,83%,323 mm
+madhya pradesh,2023,Aug,24°C - 30°C,85%,310 mm
+madhya pradesh,2023,Sep,23°C - 31°C,80%,191 mm
+madhya pradesh,2023,Oct,19°C - 32°C,61%,34 mm
+madhya pradesh,2023,Nov,14°C - 29°C,54%,4 mm
+madhya pradesh,2023,Dec,11°C - 26°C,57%,6 mm
+madhya pradesh,2024,Jan,10°C - 25°C,51%,11 mm
+madhya pradesh,2024,Feb,13°C - 29°C,43%,9 mm
+madhya pradesh,2024,Mar,18°C - 35°C,29%,7 mm
+madhya pradesh,2024,Apr,23°C - 40°C,24%,4 mm
+madhya pradesh,2024,May,27°C - 42°C,27%,14 mm
+madhya pradesh,2024,Jun,26°C - 37°C,59%,147 mm
+madhya pradesh,2024,Jul,24°C - 31°C,83%,361 mm
+madhya pradesh,2024,Aug,24°C - 30°C,85%,346 mm
+madhya pradesh,2024,Sep,23°C - 31°C,80%,213 mm
+madhya pradesh,2024,Oct,19°C - 32°C,61%,38 mm
+madhya pradesh,2024,Nov,14°C - 29°C,54%,4 mm
+madhya pradesh,2024,Dec,11°C - 26°C,57%,7 mm
+madhya pradesh,2025,Jan,10°C - 25°C,52%,12 mm
+madhya pradesh,2025,Feb,13°C - 29°C,44%,10 mm
+madhya pradesh,2025,Mar,18°C - 35°C,30%,8 mm
+madhya pradesh,2025,Apr,23°C - 40°C,25%,5 mm
+madhya pradesh,2025,May,27°C - 42°C,28%,15 mm
+madhya pradesh,2025,Jun,26°C - 37°C,60%,155 mm
+madhya pradesh,2025,Jul,24°C - 31°C,84%,380 mm
+madhya pradesh,2025,Aug,24°C - 30°C,86%,365 mm
+madhya pradesh,2025,Sep,23°C - 31°C,81%,225 mm
+madhya pradesh,2025,Oct,19°C - 32°C,62%,40 mm
+madhya pradesh,2025,Nov,14°C - 29°C,55%,5 mm
+madhya pradesh,2025,Dec,11°C - 26°C,58%,8 mm
+maharashtra,2021,Jan,14°C - 30°C,51%,1 mm
+maharashtra,2021,Feb,16°C - 32°C,43%,1 mm
+maharashtra,2021,Mar,20°C - 35°C,39%,5 mm
+maharashtra,2021,Apr,23°C - 38°C,46%,11 mm
+maharashtra,2021,May,25°C - 38°C,56%,38 mm
+maharashtra,2021,Jun,24°C - 31°C,79%,264 mm
+maharashtra,2021,Jul,23°C - 28°C,89%,418 mm
+maharashtra,2021,Aug,23°C - 29°C,87%,352 mm
+maharashtra,2021,Sep,23°C - 30°C,81%,231 mm
+maharashtra,2021,Oct,21°C - 32°C,69%,104 mm
+maharashtra,2021,Nov,17°C - 31°C,59%,22 mm
+maharashtra,2021,Dec,15°C - 31°C,56%,5 mm
+maharashtra,2022,Jan,14°C - 30°C,50%,1 mm
+maharashtra,2022,Feb,16°C - 32°C,42%,1 mm
+maharashtra,2022,Mar,20°C - 35°C,38%,6 mm
+maharashtra,2022,Apr,23°C - 38°C,45%,12 mm
+maharashtra,2022,May,25°C - 38°C,55%,42 mm
+maharashtra,2022,Jun,24°C - 31°C,78%,288 mm
+maharashtra,2022,Jul,23°C - 28°C,88%,456 mm
+maharashtra,2022,Aug,23°C - 29°C,86%,384 mm
+maharashtra,2022,Sep,23°C - 30°C,80%,252 mm
+maharashtra,2022,Oct,21°C - 32°C,68%,114 mm
+maharashtra,2022,Nov,17°C - 31°C,58%,24 mm
+maharashtra,2022,Dec,15°C - 31°C,55%,6 mm
+maharashtra,2023,Jan,15°C - 31°C,49%,0 mm
+maharashtra,2023,Feb,17°C - 33°C,41%,0 mm
+maharashtra,2023,Mar,21°C - 36°C,37%,4 mm
+maharashtra,2023,Apr,24°C - 39°C,44%,8 mm
+maharashtra,2023,May,26°C - 39°C,54%,29 mm
+maharashtra,2023,Jun,25°C - 32°C,77%,204 mm
+maharashtra,2023,Jul,24°C - 29°C,87%,323 mm
+maharashtra,2023,Aug,24°C - 30°C,85%,272 mm
+maharashtra,2023,Sep,24°C - 31°C,79%,178 mm
+maharashtra,2023,Oct,22°C - 33°C,67%,80 mm
+maharashtra,2023,Nov,18°C - 32°C,57%,17 mm
+maharashtra,2023,Dec,16°C - 32°C,54%,4 mm
+maharashtra,2024,Jan,15°C - 31°C,49%,0 mm
+maharashtra,2024,Feb,17°C - 33°C,41%,0 mm
+maharashtra,2024,Mar,21°C - 36°C,37%,4 mm
+maharashtra,2024,Apr,24°C - 39°C,44%,9 mm
+maharashtra,2024,May,26°C - 39°C,54%,33 mm
+maharashtra,2024,Jun,25°C - 32°C,77%,228 mm
+maharashtra,2024,Jul,24°C - 29°C,87%,361 mm
+maharashtra,2024,Aug,24°C - 30°C,85%,304 mm
+maharashtra,2024,Sep,24°C - 31°C,79%,199 mm
+maharashtra,2024,Oct,22°C - 33°C,67%,90 mm
+maharashtra,2024,Nov,18°C - 32°C,57%,19 mm
+maharashtra,2024,Dec,16°C - 32°C,54%,4 mm
+maharashtra,2025,Jan,15°C - 31°C,50%,1 mm
+maharashtra,2025,Feb,17°C - 33°C,42%,1 mm
+maharashtra,2025,Mar,21°C - 36°C,38%,5 mm
+maharashtra,2025,Apr,24°C - 39°C,45%,10 mm
+maharashtra,2025,May,26°C - 39°C,55%,35 mm
+maharashtra,2025,Jun,25°C - 32°C,78%,240 mm
+maharashtra,2025,Jul,24°C - 29°C,88%,380 mm
+maharashtra,2025,Aug,24°C - 30°C,86%,320 mm
+maharashtra,2025,Sep,24°C - 31°C,80%,210 mm
+maharashtra,2025,Oct,22°C - 33°C,68%,95 mm
+maharashtra,2025,Nov,18°C - 32°C,58%,20 mm
+maharashtra,2025,Dec,16°C - 32°C,55%,5 mm
+manipur,2021,Jan,13°C - 23°C,84%,13 mm
+manipur,2021,Feb,13°C - 25°C,76%,19 mm
+manipur,2021,Mar,17°C - 29°C,65%,49 mm
+manipur,2021,Apr,21°C - 30°C,77%,154 mm
+manipur,2021,May,23°C - 29°C,85%,231 mm
+manipur,2021,Jun,25°C - 32°C,84%,308 mm
+manipur,2021,Jul,26°C - 32°C,84%,346 mm
+manipur,2021,Aug,22°C - 31°C,88%,286 mm
+manipur,2021,Sep,23°C - 32°C,84%,214 mm
+manipur,2021,Oct,21°C - 30°C,84%,121 mm
+manipur,2021,Nov,18°C - 27°C,81%,27 mm
+manipur,2021,Dec,14°C - 23°C,85%,5 mm
+manipur,2022,Jan,13°C - 23°C,83%,14 mm
+manipur,2022,Feb,13°C - 25°C,75%,21 mm
+manipur,2022,Mar,17°C - 29°C,64%,54 mm
+manipur,2022,Apr,21°C - 30°C,76%,168 mm
+manipur,2022,May,23°C - 29°C,84%,252 mm
+manipur,2022,Jun,25°C - 32°C,83%,336 mm
+manipur,2022,Jul,26°C - 32°C,83%,378 mm
+manipur,2022,Aug,22°C - 31°C,87%,312 mm
+manipur,2022,Sep,23°C - 32°C,83%,234 mm
+manipur,2022,Oct,21°C - 30°C,83%,132 mm
+manipur,2022,Nov,18°C - 27°C,80%,30 mm
+manipur,2022,Dec,14°C - 23°C,84%,6 mm
+manipur,2023,Jan,14°C - 24°C,82%,10 mm
+manipur,2023,Feb,14°C - 26°C,74%,15 mm
+manipur,2023,Mar,18°C - 30°C,63%,38 mm
+manipur,2023,Apr,22°C - 31°C,75%,119 mm
+manipur,2023,May,24°C - 30°C,83%,178 mm
+manipur,2023,Jun,26°C - 33°C,82%,238 mm
+manipur,2023,Jul,27°C - 33°C,82%,267 mm
+manipur,2023,Aug,23°C - 32°C,86%,221 mm
+manipur,2023,Sep,24°C - 33°C,82%,165 mm
+manipur,2023,Oct,22°C - 31°C,82%,93 mm
+manipur,2023,Nov,19°C - 28°C,79%,21 mm
+manipur,2023,Dec,15°C - 24°C,83%,4 mm
+manipur,2024,Jan,14°C - 24°C,82%,11 mm
+manipur,2024,Feb,14°C - 26°C,74%,17 mm
+manipur,2024,Mar,18°C - 30°C,63%,42 mm
+manipur,2024,Apr,22°C - 31°C,75%,133 mm
+manipur,2024,May,24°C - 30°C,83%,199 mm
+manipur,2024,Jun,26°C - 33°C,82%,266 mm
+manipur,2024,Jul,27°C - 33°C,82%,299 mm
+manipur,2024,Aug,23°C - 32°C,86%,247 mm
+manipur,2024,Sep,24°C - 33°C,82%,185 mm
+manipur,2024,Oct,22°C - 31°C,82%,104 mm
+manipur,2024,Nov,19°C - 28°C,79%,23 mm
+manipur,2024,Dec,15°C - 24°C,83%,4 mm
+manipur,2025,Jan,14°C - 24°C,83%,12 mm
+manipur,2025,Feb,14°C - 26°C,75%,18 mm
+manipur,2025,Mar,18°C - 30°C,64%,45 mm
+manipur,2025,Apr,22°C - 31°C,76%,140 mm
+manipur,2025,May,24°C - 30°C,84%,210 mm
+manipur,2025,Jun,26°C - 33°C,83%,280 mm
+manipur,2025,Jul,27°C - 33°C,83%,315 mm
+manipur,2025,Aug,23°C - 32°C,87%,260 mm
+manipur,2025,Sep,24°C - 33°C,83%,195 mm
+manipur,2025,Oct,22°C - 31°C,83%,110 mm
+manipur,2025,Nov,19°C - 28°C,80%,25 mm
+manipur,2025,Dec,15°C - 24°C,84%,5 mm
+meghalaya,2021,Jan,7°C - 17°C,73%,16 mm
+meghalaya,2021,Feb,9°C - 19°C,71%,27 mm
+meghalaya,2021,Mar,13°C - 23°C,66%,77 mm
+meghalaya,2021,Apr,16°C - 25°C,79%,308 mm
+meghalaya,2021,May,18°C - 25°C,86%,495 mm
+meghalaya,2021,Jun,19°C - 24°C,93%,935 mm
+meghalaya,2021,Jul,20°C - 25°C,95%,1078 mm
+meghalaya,2021,Aug,20°C - 25°C,93%,792 mm
+meghalaya,2021,Sep,19°C - 25°C,89%,539 mm
+meghalaya,2021,Oct,15°C - 23°C,81%,231 mm
+meghalaya,2021,Nov,11°C - 20°C,76%,33 mm
+meghalaya,2021,Dec,8°C - 18°C,73%,11 mm
+meghalaya,2022,Jan,7°C - 17°C,72%,18 mm
+meghalaya,2022,Feb,9°C - 19°C,70%,30 mm
+meghalaya,2022,Mar,13°C - 23°C,65%,84 mm
+meghalaya,2022,Apr,16°C - 25°C,78%,336 mm
+meghalaya,2022,May,18°C - 25°C,85%,540 mm
+meghalaya,2022,Jun,19°C - 24°C,92%,1020 mm
+meghalaya,2022,Jul,20°C - 25°C,94%,1176 mm
+meghalaya,2022,Aug,20°C - 25°C,92%,864 mm
+meghalaya,2022,Sep,19°C - 25°C,88%,588 mm
+meghalaya,2022,Oct,15°C - 23°C,80%,252 mm
+meghalaya,2022,Nov,11°C - 20°C,75%,36 mm
+meghalaya,2022,Dec,8°C - 18°C,72%,12 mm
+meghalaya,2023,Jan,8°C - 18°C,71%,12 mm
+meghalaya,2023,Feb,10°C - 20°C,69%,21 mm
+meghalaya,2023,Mar,14°C - 24°C,64%,59 mm
+meghalaya,2023,Apr,17°C - 26°C,77%,238 mm
+meghalaya,2023,May,19°C - 26°C,84%,382 mm
+meghalaya,2023,Jun,20°C - 25°C,91%,722 mm
+meghalaya,2023,Jul,21°C - 26°C,93%,833 mm
+meghalaya,2023,Aug,21°C - 26°C,91%,612 mm
+meghalaya,2023,Sep,20°C - 26°C,87%,416 mm
+meghalaya,2023,Oct,16°C - 24°C,79%,178 mm
+meghalaya,2023,Nov,12°C - 21°C,74%,25 mm
+meghalaya,2023,Dec,9°C - 19°C,71%,8 mm
+meghalaya,2024,Jan,8°C - 18°C,71%,14 mm
+meghalaya,2024,Feb,10°C - 20°C,69%,23 mm
+meghalaya,2024,Mar,14°C - 24°C,64%,66 mm
+meghalaya,2024,Apr,17°C - 26°C,77%,266 mm
+meghalaya,2024,May,19°C - 26°C,84%,427 mm
+meghalaya,2024,Jun,20°C - 25°C,91%,807 mm
+meghalaya,2024,Jul,21°C - 26°C,93%,931 mm
+meghalaya,2024,Aug,21°C - 26°C,91%,684 mm
+meghalaya,2024,Sep,20°C - 26°C,87%,465 mm
+meghalaya,2024,Oct,16°C - 24°C,79%,199 mm
+meghalaya,2024,Nov,12°C - 21°C,74%,28 mm
+meghalaya,2024,Dec,9°C - 19°C,71%,9 mm
+meghalaya,2025,Jan,8°C - 18°C,72%,15 mm
+meghalaya,2025,Feb,10°C - 20°C,70%,25 mm
+meghalaya,2025,Mar,14°C - 24°C,65%,70 mm
+meghalaya,2025,Apr,17°C - 26°C,78%,280 mm
+meghalaya,2025,May,19°C - 26°C,85%,450 mm
+meghalaya,2025,Jun,20°C - 25°C,92%,850 mm
+meghalaya,2025,Jul,21°C - 26°C,94%,980 mm
+meghalaya,2025,Aug,21°C - 26°C,92%,720 mm
+meghalaya,2025,Sep,20°C - 26°C,88%,490 mm
+meghalaya,2025,Oct,16°C - 24°C,80%,210 mm
+meghalaya,2025,Nov,12°C - 21°C,75%,30 mm
+meghalaya,2025,Dec,9°C - 19°C,72%,10 mm
+mizoram,2021,Jan,11°C - 22°C,69%,5 mm
+mizoram,2021,Feb,13°C - 25°C,63%,13 mm
+mizoram,2021,Mar,17°C - 29°C,59%,44 mm
+mizoram,2021,Apr,20°C - 30°C,73%,176 mm
+mizoram,2021,May,21°C - 30°C,83%,319 mm
+mizoram,2021,Jun,22°C - 28°C,89%,495 mm
+mizoram,2021,Jul,22°C - 28°C,91%,528 mm
+mizoram,2021,Aug,22°C - 28°C,90%,451 mm
+mizoram,2021,Sep,22°C - 29°C,86%,396 mm
+mizoram,2021,Oct,20°C - 28°C,81%,209 mm
+mizoram,2021,Nov,16°C - 26°C,76%,38 mm
+mizoram,2021,Dec,12°C - 23°C,71%,11 mm
+mizoram,2022,Jan,11°C - 22°C,68%,6 mm
+mizoram,2022,Feb,13°C - 25°C,62%,14 mm
+mizoram,2022,Mar,17°C - 29°C,58%,48 mm
+mizoram,2022,Apr,20°C - 30°C,72%,192 mm
+mizoram,2022,May,21°C - 30°C,82%,348 mm
+mizoram,2022,Jun,22°C - 28°C,88%,540 mm
+mizoram,2022,Jul,22°C - 28°C,90%,576 mm
+mizoram,2022,Aug,22°C - 28°C,89%,492 mm
+mizoram,2022,Sep,22°C - 29°C,85%,432 mm
+mizoram,2022,Oct,20°C - 28°C,80%,228 mm
+mizoram,2022,Nov,16°C - 26°C,75%,42 mm
+mizoram,2022,Dec,12°C - 23°C,70%,12 mm
+mizoram,2023,Jan,12°C - 23°C,67%,4 mm
+mizoram,2023,Feb,14°C - 26°C,61%,10 mm
+mizoram,2023,Mar,18°C - 30°C,57%,34 mm
+mizoram,2023,Apr,21°C - 31°C,71%,136 mm
+mizoram,2023,May,22°C - 31°C,81%,246 mm
+mizoram,2023,Jun,23°C - 29°C,87%,382 mm
+mizoram,2023,Jul,23°C - 29°C,89%,408 mm
+mizoram,2023,Aug,23°C - 29°C,88%,348 mm
+mizoram,2023,Sep,23°C - 30°C,84%,306 mm
+mizoram,2023,Oct,21°C - 29°C,79%,161 mm
+mizoram,2023,Nov,17°C - 27°C,74%,29 mm
+mizoram,2023,Dec,13°C - 24°C,69%,8 mm
+mizoram,2024,Jan,12°C - 23°C,67%,4 mm
+mizoram,2024,Feb,14°C - 26°C,61%,11 mm
+mizoram,2024,Mar,18°C - 30°C,57%,38 mm
+mizoram,2024,Apr,21°C - 31°C,71%,152 mm
+mizoram,2024,May,22°C - 31°C,81%,275 mm
+mizoram,2024,Jun,23°C - 29°C,87%,427 mm
+mizoram,2024,Jul,23°C - 29°C,89%,456 mm
+mizoram,2024,Aug,23°C - 29°C,88%,389 mm
+mizoram,2024,Sep,23°C - 30°C,84%,342 mm
+mizoram,2024,Oct,21°C - 29°C,79%,180 mm
+mizoram,2024,Nov,17°C - 27°C,74%,33 mm
+mizoram,2024,Dec,13°C - 24°C,69%,9 mm
+mizoram,2025,Jan,12°C - 23°C,68%,5 mm
+mizoram,2025,Feb,14°C - 26°C,62%,12 mm
+mizoram,2025,Mar,18°C - 30°C,58%,40 mm
+mizoram,2025,Apr,21°C - 31°C,72%,160 mm
+mizoram,2025,May,22°C - 31°C,82%,290 mm
+mizoram,2025,Jun,23°C - 29°C,88%,450 mm
+mizoram,2025,Jul,23°C - 29°C,90%,480 mm
+mizoram,2025,Aug,23°C - 29°C,89%,410 mm
+mizoram,2025,Sep,23°C - 30°C,85%,360 mm
+mizoram,2025,Oct,21°C - 29°C,80%,190 mm
+mizoram,2025,Nov,17°C - 27°C,75%,35 mm
+mizoram,2025,Dec,13°C - 24°C,70%,10 mm
+nagaland,2021,Jan,9°C - 20°C,75%,16 mm
+nagaland,2021,Feb,11°C - 22°C,71%,22 mm
+nagaland,2021,Mar,14°C - 26°C,63%,60 mm
+nagaland,2021,Apr,18°C - 27°C,76%,159 mm
+nagaland,2021,May,20°C - 28°C,84%,242 mm
+nagaland,2021,Jun,22°C - 29°C,89%,374 mm
+nagaland,2021,Jul,23°C - 29°C,91%,429 mm
+nagaland,2021,Aug,23°C - 29°C,89%,352 mm
+nagaland,2021,Sep,22°C - 30°C,85%,286 mm
+nagaland,2021,Oct,19°C - 28°C,79%,143 mm
+nagaland,2021,Nov,14°C - 25°C,73%,27 mm
+nagaland,2021,Dec,10°C - 21°C,76%,11 mm
+nagaland,2022,Jan,9°C - 20°C,74%,18 mm
+nagaland,2022,Feb,11°C - 22°C,70%,24 mm
+nagaland,2022,Mar,14°C - 26°C,62%,66 mm
+nagaland,2022,Apr,18°C - 27°C,75%,174 mm
+nagaland,2022,May,20°C - 28°C,83%,264 mm
+nagaland,2022,Jun,22°C - 29°C,88%,408 mm
+nagaland,2022,Jul,23°C - 29°C,90%,468 mm
+nagaland,2022,Aug,23°C - 29°C,88%,384 mm
+nagaland,2022,Sep,22°C - 30°C,84%,312 mm
+nagaland,2022,Oct,19°C - 28°C,78%,156 mm
+nagaland,2022,Nov,14°C - 25°C,72%,30 mm
+nagaland,2022,Dec,10°C - 21°C,75%,12 mm
+nagaland,2023,Jan,10°C - 21°C,73%,12 mm
+nagaland,2023,Feb,12°C - 23°C,69%,17 mm
+nagaland,2023,Mar,15°C - 27°C,61%,46 mm
+nagaland,2023,Apr,19°C - 28°C,74%,123 mm
+nagaland,2023,May,21°C - 29°C,82%,187 mm
+nagaland,2023,Jun,23°C - 30°C,87%,289 mm
+nagaland,2023,Jul,24°C - 30°C,89%,331 mm
+nagaland,2023,Aug,24°C - 30°C,87%,272 mm
+nagaland,2023,Sep,23°C - 31°C,83%,221 mm
+nagaland,2023,Oct,20°C - 29°C,77%,110 mm
+nagaland,2023,Nov,15°C - 26°C,71%,21 mm
+nagaland,2023,Dec,11°C - 22°C,74%,8 mm
+nagaland,2024,Jan,10°C - 21°C,73%,14 mm
+nagaland,2024,Feb,12°C - 23°C,69%,19 mm
+nagaland,2024,Mar,15°C - 27°C,61%,52 mm
+nagaland,2024,Apr,19°C - 28°C,74%,137 mm
+nagaland,2024,May,21°C - 29°C,82%,209 mm
+nagaland,2024,Jun,23°C - 30°C,87%,323 mm
+nagaland,2024,Jul,24°C - 30°C,89%,370 mm
+nagaland,2024,Aug,24°C - 30°C,87%,304 mm
+nagaland,2024,Sep,23°C - 31°C,83%,247 mm
+nagaland,2024,Oct,20°C - 29°C,77%,123 mm
+nagaland,2024,Nov,15°C - 26°C,71%,23 mm
+nagaland,2024,Dec,11°C - 22°C,74%,9 mm
+nagaland,2025,Jan,10°C - 21°C,74%,15 mm
+nagaland,2025,Feb,12°C - 23°C,70%,20 mm
+nagaland,2025,Mar,15°C - 27°C,62%,55 mm
+nagaland,2025,Apr,19°C - 28°C,75%,145 mm
+nagaland,2025,May,21°C - 29°C,83%,220 mm
+nagaland,2025,Jun,23°C - 30°C,88%,340 mm
+nagaland,2025,Jul,24°C - 30°C,90%,390 mm
+nagaland,2025,Aug,24°C - 30°C,88%,320 mm
+nagaland,2025,Sep,23°C - 31°C,84%,260 mm
+nagaland,2025,Oct,20°C - 29°C,78%,130 mm
+nagaland,2025,Nov,15°C - 26°C,72%,25 mm
+nagaland,2025,Dec,11°C - 22°C,75%,10 mm
+odisha,2021,Jan,15°C - 29°C,71%,13 mm
+odisha,2021,Feb,18°C - 32°C,66%,16 mm
+odisha,2021,Mar,22°C - 36°C,61%,22 mm
+odisha,2021,Apr,25°C - 38°C,65%,49 mm
+odisha,2021,May,27°C - 39°C,73%,121 mm
+odisha,2021,Jun,26°C - 33°C,81%,264 mm
+odisha,2021,Jul,25°C - 31°C,87%,418 mm
+odisha,2021,Aug,25°C - 31°C,86%,401 mm
+odisha,2021,Sep,24°C - 31°C,83%,319 mm
+odisha,2021,Oct,22°C - 30°C,77%,214 mm
+odisha,2021,Nov,18°C - 29°C,69%,44 mm
+odisha,2021,Dec,15°C - 28°C,68%,11 mm
+odisha,2022,Jan,15°C - 29°C,70%,14 mm
+odisha,2022,Feb,18°C - 32°C,65%,18 mm
+odisha,2022,Mar,22°C - 36°C,60%,24 mm
+odisha,2022,Apr,25°C - 38°C,64%,54 mm
+odisha,2022,May,27°C - 39°C,72%,132 mm
+odisha,2022,Jun,26°C - 33°C,80%,288 mm
+odisha,2022,Jul,25°C - 31°C,86%,456 mm
+odisha,2022,Aug,25°C - 31°C,85%,438 mm
+odisha,2022,Sep,24°C - 31°C,82%,348 mm
+odisha,2022,Oct,22°C - 30°C,76%,234 mm
+odisha,2022,Nov,18°C - 29°C,68%,48 mm
+odisha,2022,Dec,15°C - 28°C,67%,12 mm
+odisha,2023,Jan,16°C - 30°C,69%,10 mm
+odisha,2023,Feb,19°C - 33°C,64%,12 mm
+odisha,2023,Mar,23°C - 37°C,59%,17 mm
+odisha,2023,Apr,26°C - 39°C,63%,38 mm
+odisha,2023,May,28°C - 40°C,71%,93 mm
+odisha,2023,Jun,27°C - 34°C,79%,204 mm
+odisha,2023,Jul,26°C - 32°C,85%,323 mm
+odisha,2023,Aug,26°C - 32°C,84%,310 mm
+odisha,2023,Sep,25°C - 32°C,81%,246 mm
+odisha,2023,Oct,23°C - 31°C,75%,165 mm
+odisha,2023,Nov,19°C - 30°C,67%,34 mm
+odisha,2023,Dec,16°C - 29°C,66%,8 mm
+odisha,2024,Jan,16°C - 30°C,69%,11 mm
+odisha,2024,Feb,19°C - 33°C,64%,14 mm
+odisha,2024,Mar,23°C - 37°C,59%,19 mm
+odisha,2024,Apr,26°C - 39°C,63%,42 mm
+odisha,2024,May,28°C - 40°C,71%,104 mm
+odisha,2024,Jun,27°C - 34°C,79%,228 mm
+odisha,2024,Jul,26°C - 32°C,85%,361 mm
+odisha,2024,Aug,26°C - 32°C,84%,346 mm
+odisha,2024,Sep,25°C - 32°C,81%,275 mm
+odisha,2024,Oct,23°C - 31°C,75%,185 mm
+odisha,2024,Nov,19°C - 30°C,67%,38 mm
+odisha,2024,Dec,16°C - 29°C,66%,9 mm
+odisha,2025,Jan,16°C - 30°C,70%,12 mm
+odisha,2025,Feb,19°C - 33°C,65%,15 mm
+odisha,2025,Mar,23°C - 37°C,60%,20 mm
+odisha,2025,Apr,26°C - 39°C,64%,45 mm
+odisha,2025,May,28°C - 40°C,72%,110 mm
+odisha,2025,Jun,27°C - 34°C,80%,240 mm
+odisha,2025,Jul,26°C - 32°C,86%,380 mm
+odisha,2025,Aug,26°C - 32°C,85%,365 mm
+odisha,2025,Sep,25°C - 32°C,82%,290 mm
+odisha,2025,Oct,23°C - 31°C,76%,195 mm
+odisha,2025,Nov,19°C - 30°C,68%,40 mm
+odisha,2025,Dec,16°C - 29°C,67%,10 mm
+punjab,2021,Jan,6°C - 18°C,76%,16 mm
+punjab,2021,Feb,9°C - 23°C,69%,33 mm
+punjab,2021,Mar,14°C - 29°C,56%,27 mm
+punjab,2021,Apr,19°C - 35°C,39%,16 mm
+punjab,2021,May,24°C - 40°C,33%,22 mm
+punjab,2021,Jun,27°C - 39°C,53%,77 mm
+punjab,2021,Jul,25°C - 33°C,79%,161 mm
+punjab,2021,Aug,24°C - 32°C,83%,279 mm
+punjab,2021,Sep,23°C - 32°C,75%,166 mm
+punjab,2021,Oct,17°C - 31°C,59%,11 mm
+punjab,2021,Nov,11°C - 27°C,56%,5 mm
+punjab,2021,Dec,7°C - 20°C,73%,11 mm
+punjab,2022,Jan,6°C - 18°C,75%,18 mm
+punjab,2022,Feb,9°C - 23°C,68%,36 mm
+punjab,2022,Mar,14°C - 29°C,55%,30 mm
+punjab,2022,Apr,19°C - 35°C,38%,18 mm
+punjab,2022,May,24°C - 40°C,32%,24 mm
+punjab,2022,Jun,27°C - 39°C,52%,84 mm
+punjab,2022,Jul,25°C - 33°C,78%,176 mm
+punjab,2022,Aug,24°C - 32°C,82%,304 mm
+punjab,2022,Sep,23°C - 32°C,74%,181 mm
+punjab,2022,Oct,17°C - 31°C,58%,12 mm
+punjab,2022,Nov,11°C - 27°C,55%,6 mm
+punjab,2022,Dec,7°C - 20°C,72%,12 mm
+punjab,2023,Jan,7°C - 19°C,74%,12 mm
+punjab,2023,Feb,10°C - 24°C,67%,25 mm
+punjab,2023,Mar,15°C - 30°C,54%,21 mm
+punjab,2023,Apr,20°C - 36°C,37%,12 mm
+punjab,2023,May,25°C - 41°C,31%,17 mm
+punjab,2023,Jun,28°C - 40°C,51%,59 mm
+punjab,2023,Jul,26°C - 34°C,77%,124 mm
+punjab,2023,Aug,25°C - 33°C,81%,215 mm
+punjab,2023,Sep,24°C - 33°C,73%,128 mm
+punjab,2023,Oct,18°C - 32°C,57%,8 mm
+punjab,2023,Nov,12°C - 28°C,54%,4 mm
+punjab,2023,Dec,8°C - 21°C,71%,8 mm
+punjab,2024,Jan,7°C - 19°C,74%,14 mm
+punjab,2024,Feb,10°C - 24°C,67%,28 mm
+punjab,2024,Mar,15°C - 30°C,54%,23 mm
+punjab,2024,Apr,20°C - 36°C,37%,14 mm
+punjab,2024,May,25°C - 41°C,31%,19 mm
+punjab,2024,Jun,28°C - 40°C,51%,66 mm
+punjab,2024,Jul,26°C - 34°C,77%,139 mm
+punjab,2024,Aug,25°C - 33°C,81%,241 mm
+punjab,2024,Sep,24°C - 33°C,73%,143 mm
+punjab,2024,Oct,18°C - 32°C,57%,9 mm
+punjab,2024,Nov,12°C - 28°C,54%,4 mm
+punjab,2024,Dec,8°C - 21°C,71%,9 mm
+punjab,2025,Jan,7°C - 19°C,75%,15 mm
+punjab,2025,Feb,10°C - 24°C,68%,30 mm
+punjab,2025,Mar,15°C - 30°C,55%,25 mm
+punjab,2025,Apr,20°C - 36°C,38%,15 mm
+punjab,2025,May,25°C - 41°C,32%,20 mm
+punjab,2025,Jun,28°C - 40°C,52%,70 mm
+punjab,2025,Jul,26°C - 34°C,78%,147 mm
+punjab,2025,Aug,25°C - 33°C,82%,254 mm
+punjab,2025,Sep,24°C - 33°C,74%,151 mm
+punjab,2025,Oct,18°C - 32°C,58%,10 mm
+punjab,2025,Nov,12°C - 28°C,55%,5 mm
+punjab,2025,Dec,8°C - 21°C,72%,10 mm
+Rajasthan,2021,Jan,9°C - 24°C,0.52,4 mm
+Rajasthan,2021,Feb,13°C - 29°C,0.4,1 mm
+Rajasthan,2021,Mar,18°C - 35°C,0.28,2 mm
+Rajasthan,2021,Apr,22°C - 39°C,0.22,3 mm
+Rajasthan,2021,May,26°C - 41°C,0.3,55 mm
+Rajasthan,2021,Jun,28°C - 39°C,0.45,62 mm
+Rajasthan,2021,Jul,27°C - 35°C,0.72,155 mm
+Rajasthan,2021,Aug,26°C - 33°C,0.78,185 mm
+Rajasthan,2021,Sep,25°C - 34°C,0.7,148 mm
+Rajasthan,2021,Oct,21°C - 35°C,0.42,15 mm
+Rajasthan,2021,Nov,14°C - 31°C,0.38,0 mm
+Rajasthan,2021,Dec,10°C - 26°C,0.45,1 mm
+Rajasthan,2022,Jan,10°C - 22°C,0.65,18 mm
+Rajasthan,2022,Feb,12°C - 27°C,0.48,5 mm
+Rajasthan,2022,Mar,21°C - 37°C,0.25,0 mm
+Rajasthan,2022,Apr,26°C - 41°C,0.18,0 mm
+Rajasthan,2022,May,29°C - 44°C,0.22,12 mm
+Rajasthan,2022,Jun,30°C - 41°C,0.38,55 mm
+Rajasthan,2022,Jul,27°C - 34°C,0.78,270 mm
+Rajasthan,2022,Aug,26°C - 33°C,0.82,216 mm
+Rajasthan,2022,Sep,25°C - 34°C,0.72,54 mm
+Rajasthan,2022,Oct,22°C - 33°C,0.55,28 mm
+Rajasthan,2022,Nov,16°C - 30°C,0.42,0 mm
+Rajasthan,2022,Dec,11°C - 26°C,0.46,0 mm
+Rajasthan,2023,Jan,9°C - 21°C,0.65,12 mm
+Rajasthan,2023,Feb,15°C - 29°C,0.47,3 mm
+Rajasthan,2023,Mar,19°C - 31°C,0.52,15 mm
+Rajasthan,2023,Apr,23°C - 35°C,0.35,8 mm
+Rajasthan,2023,May,24°C - 37°C,0.43,35 mm
+Rajasthan,2023,Jun,27°C - 36°C,0.47,157 mm
+Rajasthan,2023,Jul,27°C - 33°C,0.84,230 mm
+Rajasthan,2023,Aug,25°C - 33°C,0.75,55 mm
+Rajasthan,2023,Sep,26°C - 34°C,0.7,115 mm
+Rajasthan,2023,Oct,21°C - 32°C,0.45,18 mm
+Rajasthan,2023,Nov,16°C - 29°C,0.44,2 mm
+Rajasthan,2023,Dec,12°C - 26°C,0.55,1 mm
+Rajasthan,2024,Jan,9°C - 22°C,0.73,4 mm
+Rajasthan,2024,Feb,14°C - 25°C,0.51,12 mm
+Rajasthan,2024,Mar,19°C - 32°C,0.38,5 mm
+Rajasthan,2024,Apr,25°C - 38°C,0.28,10 mm
+Rajasthan,2024,May,30°C - 42°C,0.27,6 mm
+Rajasthan,2024,Jun,30°C - 39°C,0.5,51 mm
+Rajasthan,2024,Jul,27°C - 34°C,0.82,169 mm
+Rajasthan,2024,Aug,26°C - 30°C,0.83,345 mm
+Rajasthan,2024,Sep,25°C - 32°C,0.8,128 mm
+Rajasthan,2024,Oct,24°C - 34°C,0.48,2 mm
+Rajasthan,2024,Nov,17°C - 29°C,0.45,0 mm
+Rajasthan,2024,Dec,10°C - 22°C,0.55,1 mm
+Rajasthan,2025,Jan,10°C - 20°C,0.66,6 mm
+Rajasthan,2025,Feb,15°C - 27°C,0.45,2 mm
+Rajasthan,2025,Mar,20°C - 33°C,0.31,8 mm
+Rajasthan,2025,Apr,26°C - 30°C,0.22,5 mm
+Rajasthan,2025,May,28°C - 38°C,0.41,20 mm
+Rajasthan,2025,Jun,27°C - 36°C,0.61,128 mm
+Rajasthan,2025,Jul,26°C - 31°C,0.82,287 mm
+Rajasthan,2025,Aug,26°C - 32°C,0.82,184 mm
+Rajasthan,2025,Sep,26°C - 33°C,0.79,116 mm
+Rajasthan,2025,Oct,21°C - 29°C,0.62,45 mm
+Rajasthan,2025,Nov,15°C - 26°C,0.5,0 mm
+Rajasthan,2025,Dec,11°C - 25°C,0.58,1 mm
+Sikkim,2021,Jan,4°C - 13°C,0.6,15 mm
+Sikkim,2021,Feb,6°C - 15°C,0.58,35 mm
+Sikkim,2021,Mar,9°C - 19°C,0.55,85 mm
+Sikkim,2021,Apr,12°C - 21°C,0.64,160 mm
+Sikkim,2021,May,14°C - 22°C,0.78,450 mm
+Sikkim,2021,Jun,17°C - 23°C,0.88,610 mm
+Sikkim,2021,Jul,18°C - 23°C,0.92,650 mm
+Sikkim,2021,Aug,18°C - 24°C,0.9,580 mm
+Sikkim,2021,Sep,17°C - 23°C,0.88,460 mm
+Sikkim,2021,Oct,13°C - 21°C,0.75,180 mm
+Sikkim,2021,Nov,9°C - 18°C,0.62,25 mm
+Sikkim,2021,Dec,6°C - 15°C,0.6,10 mm
+Sikkim,2022,Jan,5°C - 14°C,0.65,40 mm
+Sikkim,2022,Feb,6°C - 14°C,0.69,75 mm
+Sikkim,2022,Mar,10°C - 22°C,0.55,90 mm
+Sikkim,2022,Apr,13°C - 22°C,0.7,280 mm
+Sikkim,2022,May,14°C - 22°C,0.85,520 mm
+Sikkim,2022,Jun,17°C - 23°C,0.9,780 mm
+Sikkim,2022,Jul,18°C - 23°C,0.93,610 mm
+Sikkim,2022,Aug,18°C - 24°C,0.91,540 mm
+Sikkim,2022,Sep,17°C - 23°C,0.89,490 mm
+Sikkim,2022,Oct,13°C - 21°C,0.78,210 mm
+Sikkim,2022,Nov,9°C - 18°C,0.65,12 mm
+Sikkim,2022,Dec,6°C - 15°C,0.62,8 mm
+Sikkim,2023,Jan,5°C - 15°C,0.6,18 mm
+Sikkim,2023,Feb,8°C - 17°C,0.67,22 mm
+Sikkim,2023,Mar,10°C - 20°C,0.71,115 mm
+Sikkim,2023,Apr,13°C - 22°C,0.68,240 mm
+Sikkim,2023,May,14°C - 23°C,0.75,410 mm
+Sikkim,2023,Jun,17°C - 24°C,0.88,590 mm
+Sikkim,2023,Jul,18°C - 24°C,0.92,720 mm
+Sikkim,2023,Aug,18°C - 24°C,0.91,605 mm
+Sikkim,2023,Sep,17°C - 23°C,0.89,515 mm
+Sikkim,2023,Oct,12°C - 20°C,0.8,340 mm
+Sikkim,2023,Nov,9°C - 18°C,0.64,15 mm
+Sikkim,2023,Dec,6°C - 15°C,0.61,5 mm
+Sikkim,2024,Jan,6°C - 16°C,0.67,10 mm
+Sikkim,2024,Feb,7°C - 16°C,0.69,45 mm
+Sikkim,2024,Mar,10°C - 20°C,0.72,130 mm
+Sikkim,2024,Apr,14°C - 23°C,0.7,195 mm
+Sikkim,2024,May,15°C - 24°C,0.82,480 mm
+Sikkim,2024,Jun,18°C - 24°C,0.91,810 mm
+Sikkim,2024,Jul,18°C - 25°C,0.93,690 mm
+Sikkim,2024,Aug,18°C - 25°C,0.91,570 mm
+Sikkim,2024,Sep,17°C - 24°C,0.88,440 mm
+Sikkim,2024,Oct,13°C - 22°C,0.74,110 mm
+Sikkim,2024,Nov,10°C - 19°C,0.66,8 mm
+Sikkim,2024,Dec,7°C - 16°C,0.63,4 mm
+Sikkim,2025,Jan,6°C - 16°C,0.68,22 mm
+Sikkim,2025,Feb,8°C - 17°C,0.79,14 mm
+Sikkim,2025,Mar,11°C - 20°C,0.68,280 mm
+Sikkim,2025,Apr,14°C - 23°C,0.75,185 mm
+Sikkim,2025,May,16°C - 24°C,0.84,395 mm
+Sikkim,2025,Jun,18°C - 25°C,0.91,685 mm
+Sikkim,2025,Jul,19°C - 25°C,0.93,740 mm
+Sikkim,2025,Aug,19°C - 25°C,0.92,615 mm
+Sikkim,2025,Sep,18°C - 24°C,0.9,495 mm
+Sikkim,2025,Oct,14°C - 22°C,0.81,225 mm
+Sikkim,2025,Nov,11°C - 20°C,0.69,12 mm
+Sikkim,2025,Dec,8°C - 17°C,0.66,3 mm
+Tamil Nadu,2021,Jan,21°C - 29°C,0.78,148 mm
+Tamil Nadu,2021,Feb,22°C - 31°C,0.72,15 mm
+Tamil Nadu,2021,Mar,24°C - 33°C,0.68,12 mm
+Tamil Nadu,2021,Apr,26°C - 35°C,0.65,38 mm
+Tamil Nadu,2021,May,27°C - 37°C,0.62,65 mm
+Tamil Nadu,2021,Jun,26°C - 36°C,0.58,55 mm
+Tamil Nadu,2021,Jul,26°C - 35°C,0.62,68 mm
+Tamil Nadu,2021,Aug,25°C - 35°C,0.65,105 mm
+Tamil Nadu,2021,Sep,25°C - 34°C,0.7,135 mm
+Tamil Nadu,2021,Oct,24°C - 31°C,0.78,195 mm
+Tamil Nadu,2021,Nov,23°C - 29°C,0.84,450 mm
+Tamil Nadu,2021,Dec,22°C - 29°C,0.8,165 mm
+Tamil Nadu,2022,Jan,21°C - 30°C,0.75,35 mm
+Tamil Nadu,2022,Feb,22°C - 31°C,0.7,10 mm
+Tamil Nadu,2022,Mar,25°C - 34°C,0.65,5 mm
+Tamil Nadu,2022,Apr,27°C - 36°C,0.63,42 mm
+Tamil Nadu,2022,May,27°C - 36°C,0.68,115 mm
+Tamil Nadu,2022,Jun,27°C - 36°C,0.6,65 mm
+Tamil Nadu,2022,Jul,26°C - 35°C,0.64,85 mm
+Tamil Nadu,2022,Aug,25°C - 34°C,0.7,155 mm
+Tamil Nadu,2022,Sep,25°C - 34°C,0.72,110 mm
+Tamil Nadu,2022,Oct,24°C - 31°C,0.79,245 mm
+Tamil Nadu,2022,Nov,23°C - 29°C,0.82,280 mm
+Tamil Nadu,2022,Dec,22°C - 29°C,0.78,125 mm
+Tamil Nadu,2023,Jan,21°C - 30°C,0.74,25 mm
+Tamil Nadu,2023,Feb,22°C - 31°C,0.71,8 mm
+Tamil Nadu,2023,Mar,24°C - 33°C,0.68,18 mm
+Tamil Nadu,2023,Apr,26°C - 35°C,0.64,45 mm
+Tamil Nadu,2023,May,28°C - 38°C,0.61,55 mm
+Tamil Nadu,2023,Jun,27°C - 37°C,0.58,72 mm
+Tamil Nadu,2023,Jul,27°C - 35°C,0.62,95 mm
+Tamil Nadu,2023,Aug,26°C - 35°C,0.65,112 mm
+Tamil Nadu,2023,Sep,26°C - 34°C,0.71,148 mm
+Tamil Nadu,2023,Oct,24°C - 32°C,0.79,215 mm
+Tamil Nadu,2023,Nov,23°C - 30°C,0.83,320 mm
+Tamil Nadu,2023,Dec,22°C - 29°C,0.81,390 mm
+Tamil Nadu,2024,Jan,22°C - 30°C,0.78,12 mm
+Tamil Nadu,2024,Feb,23°C - 32°C,0.74,5 mm
+Tamil Nadu,2024,Mar,25°C - 34°C,0.7,2 mm
+Tamil Nadu,2024,Apr,27°C - 36°C,0.66,28 mm
+Tamil Nadu,2024,May,28°C - 37°C,0.65,140 mm
+Tamil Nadu,2024,Jun,27°C - 36°C,0.62,85 mm
+Tamil Nadu,2024,Jul,27°C - 35°C,0.65,102 mm
+Tamil Nadu,2024,Aug,26°C - 34°C,0.68,120 mm
+Tamil Nadu,2024,Sep,26°C - 33°C,0.74,155 mm
+Tamil Nadu,2024,Oct,25°C - 32°C,0.8,185 mm
+Tamil Nadu,2024,Nov,24°C - 30°C,0.85,340 mm
+Tamil Nadu,2024,Dec,23°C - 29°C,0.82,210 mm
+Tamil Nadu,2025,Jan,23°C - 29°C,0.79,108 mm
+Tamil Nadu,2025,Feb,24°C - 31°C,0.75,14 mm
+Tamil Nadu,2025,Mar,26°C - 33°C,0.72,8 mm
+Tamil Nadu,2025,Apr,28°C - 35°C,0.7,32 mm
+Tamil Nadu,2025,May,30°C - 38°C,0.66,75 mm
+Tamil Nadu,2025,Jun,28°C - 36°C,0.65,60 mm
+Tamil Nadu,2025,Jul,27°C - 35°C,0.68,110 mm
+Tamil Nadu,2025,Aug,27°C - 34°C,0.72,135 mm
+Tamil Nadu,2025,Sep,27°C - 33°C,0.76,175 mm
+Tamil Nadu,2025,Oct,26°C - 32°C,0.82,260 mm
+Tamil Nadu,2025,Nov,25°C - 30°C,0.86,310 mm
+Tamil Nadu,2025,Dec,24°C - 30°C,0.81,180 mm
+Telangana,2021,Jan,15°C - 30°C,0.6,5 mm
+Telangana,2021,Feb,17°C - 32°C,0.52,1.5 mm
+Telangana,2021,Mar,21°C - 36°C,0.4,8 mm
+Telangana,2021,Apr,24°C - 39°C,0.35,12 mm
+Telangana,2021,May,26°C - 40°C,0.42,68 mm
+Telangana,2021,Jun,25°C - 34°C,0.65,162 mm
+Telangana,2021,Jul,24°C - 31°C,0.82,345 mm
+Telangana,2021,Aug,24°C - 31°C,0.8,195 mm
+Telangana,2021,Sep,23°C - 31°C,0.78,248 mm
+Telangana,2021,Oct,22°C - 31°C,0.68,105 mm
+Telangana,2021,Nov,18°C - 30°C,0.62,22 mm
+Telangana,2021,Dec,15°C - 29°C,0.6,1 mm
+Telangana,2022,Jan,16°C - 29°C,0.68,18 mm
+Telangana,2022,Feb,18°C - 32°C,0.55,2 mm
+Telangana,2022,Mar,22°C - 38°C,0.38,0.5 mm
+Telangana,2022,Apr,26°C - 41°C,0.32,8 mm
+Telangana,2022,May,28°C - 42°C,0.35,45 mm
+Telangana,2022,Jun,26°C - 36°C,0.58,128 mm
+Telangana,2022,Jul,24°C - 30°C,0.88,535 mm
+Telangana,2022,Aug,24°C - 31°C,0.84,290 mm
+Telangana,2022,Sep,24°C - 31°C,0.81,185 mm
+Telangana,2022,Oct,22°C - 31°C,0.75,142 mm
+Telangana,2022,Nov,17°C - 30°C,0.62,0 mm
+Telangana,2022,Dec,15°C - 29°C,0.64,1 mm
+Telangana,2023,Jan,14°C - 31°C,0.62,0 mm
+Telangana,2023,Feb,18°C - 33°C,0.51,0.2 mm
+Telangana,2023,Mar,21°C - 35°C,0.54,32 mm
+Telangana,2023,Apr,24°C - 37°C,0.48,48 mm
+Telangana,2023,May,27°C - 40°C,0.45,28 mm
+Telangana,2023,Jun,28°C - 38°C,0.52,75 mm
+Telangana,2023,Jul,24°C - 30°C,0.89,485 mm
+Telangana,2023,Aug,25°C - 32°C,0.76,98 mm
+Telangana,2023,Sep,24°C - 31°C,0.82,215 mm
+Telangana,2023,Oct,22°C - 32°C,0.6,12 mm
+Telangana,2023,Nov,19°C - 31°C,0.65,15 mm
+Telangana,2023,Dec,17°C - 30°C,0.66,2 mm
+Telangana,2024,Jan,16°C - 31°C,0.72,1 mm
+Telangana,2024,Feb,19°C - 34°C,0.58,5 mm
+Telangana,2024,Mar,23°C - 39°C,0.42,2 mm
+Telangana,2024,Apr,26°C - 41°C,0.38,14 mm
+Telangana,2024,May,28°C - 43°C,0.35,30 mm
+Telangana,2024,Jun,27°C - 36°C,0.6,145 mm
+Telangana,2024,Jul,25°C - 31°C,0.84,310 mm
+Telangana,2024,Aug,24°C - 30°C,0.86,425 mm
+Telangana,2024,Sep,24°C - 31°C,0.8,290 mm
+Telangana,2024,Oct,23°C - 32°C,0.68,45 mm
+Telangana,2024,Nov,18°C - 31°C,0.6,0 mm
+Telangana,2024,Dec,16°C - 30°C,0.62,0 mm
+Telangana,2025,Jan,16°C - 31°C,0.68,4 mm
+Telangana,2025,Feb,19°C - 33°C,0.55,1 mm
+Telangana,2025,Mar,23°C - 37°C,0.44,18 mm
+Telangana,2025,Apr,27°C - 40°C,0.38,10 mm
+Telangana,2025,May,29°C - 41°C,0.41,35 mm
+Telangana,2025,Jun,27°C - 36°C,0.62,104 mm
+Telangana,2025,Jul,25°C - 31°C,0.85,360 mm
+Telangana,2025,Aug,25°C - 31°C,0.83,280 mm
+Telangana,2025,Sep,24°C - 31°C,0.8,240 mm
+Telangana,2025,Oct,23°C - 32°C,0.7,85 mm
+Telangana,2025,Nov,19°C - 31°C,0.64,2 mm
+Telangana,2025,Dec,17°C - 30°C,0.65,1 mm
+Tripura,2021,Jan,11°C - 25°C,0.76,3 mm
+Tripura,2021,Feb,14°C - 28°C,0.68,12 mm
+Tripura,2021,Mar,19°C - 33°C,0.65,21 mm
+Tripura,2021,Apr,22°C - 34°C,0.71,115 mm
+Tripura,2021,May,24°C - 34°C,0.78,245 mm
+Tripura,2021,Jun,25°C - 33°C,0.83,380 mm
+Tripura,2021,Jul,25°C - 32°C,0.84,410 mm
+Tripura,2021,Aug,26°C - 33°C,0.83,220 mm
+Tripura,2021,Sep,25°C - 33°C,0.83,170 mm
+Tripura,2021,Oct,23°C - 32°C,0.81,125 mm
+Tripura,2021,Nov,18°C - 30°C,0.77,18 mm
+Tripura,2021,Dec,13°C - 26°C,0.79,10 mm
+Tripura,2022,Jan,12°C - 25°C,0.78,15 mm
+Tripura,2022,Feb,14°C - 27°C,0.72,28 mm
+Tripura,2022,Mar,20°C - 34°C,0.6,8 mm
+Tripura,2022,Apr,23°C - 33°C,0.74,210 mm
+Tripura,2022,May,24°C - 32°C,0.82,465 mm
+Tripura,2022,Jun,25°C - 31°C,0.88,620 mm
+Tripura,2022,Jul,26°C - 32°C,0.84,340 mm
+Tripura,2022,Aug,26°C - 33°C,0.83,285 mm
+Tripura,2022,Sep,25°C - 32°C,0.84,195 mm
+Tripura,2022,Oct,23°C - 31°C,0.82,140 mm
+Tripura,2022,Nov,18°C - 30°C,0.76,2 mm
+Tripura,2022,Dec,13°C - 27°C,0.78,0 mm
+Tripura,2023,Jan,11°C - 26°C,0.75,2 mm
+Tripura,2023,Feb,15°C - 29°C,0.64,5 mm
+Tripura,2023,Mar,19°C - 33°C,0.62,42 mm
+Tripura,2023,Apr,22°C - 35°C,0.66,85 mm
+Tripura,2023,May,24°C - 34°C,0.75,190 mm
+Tripura,2023,Jun,26°C - 32°C,0.85,315 mm
+Tripura,2023,Jul,26°C - 31°C,0.86,390 mm
+Tripura,2023,Aug,26°C - 32°C,0.85,430 mm
+Tripura,2023,Sep,25°C - 32°C,0.84,280 mm
+Tripura,2023,Oct,22°C - 31°C,0.8,110 mm
+Tripura,2023,Nov,17°C - 29°C,0.78,55 mm
+Tripura,2023,Dec,13°C - 26°C,0.8,8 mm
+Tripura,2024,Jan,10°C - 24°C,0.82,1 mm
+Tripura,2024,Feb,15°C - 28°C,0.7,18 mm
+Tripura,2024,Mar,20°C - 34°C,0.64,12 mm
+Tripura,2024,Apr,23°C - 35°C,0.68,140 mm
+Tripura,2024,May,25°C - 33°C,0.8,310 mm
+Tripura,2024,Jun,26°C - 32°C,0.86,425 mm
+Tripura,2024,Jul,26°C - 31°C,0.88,480 mm
+Tripura,2024,Aug,26°C - 32°C,0.86,360 mm
+Tripura,2024,Sep,25°C - 32°C,0.85,240 mm
+Tripura,2024,Oct,23°C - 31°C,0.82,105 mm
+Tripura,2024,Nov,17°C - 29°C,0.77,4 mm
+Tripura,2024,Dec,13°C - 27°C,0.79,2 mm
+Tripura,2025,Jan,12°C - 26°C,0.79,0.5 mm
+Tripura,2025,Feb,15°C - 30°C,0.68,1 mm
+Tripura,2025,Mar,21°C - 36°C,0.65,5 mm
+Tripura,2025,Apr,24°C - 36°C,0.7,120 mm
+Tripura,2025,May,26°C - 34°C,0.79,285 mm
+Tripura,2025,Jun,26°C - 32°C,0.84,360 mm
+Tripura,2025,Jul,26°C - 31°C,0.86,420 mm
+Tripura,2025,Aug,26°C - 32°C,0.85,330 mm
+Tripura,2025,Sep,25°C - 32°C,0.83,210 mm
+Tripura,2025,Oct,24°C - 32°C,0.81,165 mm
+Tripura,2025,Nov,18°C - 30°C,0.77,12 mm
+Tripura,2025,Dec,14°C - 27°C,0.79,3 mm
+Uttar Pradesh,2021,Jan,9°C - 21°C,0.68,15 mm
+Uttar Pradesh,2021,Feb,12°C - 26°C,0.55,8 mm
+Uttar Pradesh,2021,Mar,18°C - 34°C,0.38,2 mm
+Uttar Pradesh,2021,Apr,22°C - 39°C,0.25,5 mm
+Uttar Pradesh,2021,May,26°C - 41°C,0.32,45 mm
+Uttar Pradesh,2021,Jun,28°C - 38°C,0.62,120 mm
+Uttar Pradesh,2021,Jul,27°C - 34°C,0.8,280 mm
+Uttar Pradesh,2021,Aug,26°C - 33°C,0.83,240 mm
+Uttar Pradesh,2021,Sep,25°C - 32°C,0.78,190 mm
+Uttar Pradesh,2021,Oct,20°C - 31°C,0.58,35 mm
+Uttar Pradesh,2021,Nov,14°C - 27°C,0.52,1 mm
+Uttar Pradesh,2021,Dec,10°C - 23°C,0.6,4 mm
+Uttar Pradesh,2022,Jan,10°C - 19°C,0.75,28 mm
+Uttar Pradesh,2022,Feb,12°C - 25°C,0.58,12 mm
+Uttar Pradesh,2022,Mar,20°C - 36°C,0.3,1 mm
+Uttar Pradesh,2022,Apr,26°C - 42°C,0.18,0 mm
+Uttar Pradesh,2022,May,28°C - 43°C,0.22,15 mm
+Uttar Pradesh,2022,Jun,29°C - 40°C,0.55,95 mm
+Uttar Pradesh,2022,Jul,27°C - 33°C,0.82,210 mm
+Uttar Pradesh,2022,Aug,26°C - 33°C,0.84,185 mm
+Uttar Pradesh,2022,Sep,25°C - 32°C,0.81,230 mm
+Uttar Pradesh,2022,Oct,22°C - 31°C,0.65,125 mm
+Uttar Pradesh,2022,Nov,15°C - 28°C,0.54,0 mm
+Uttar Pradesh,2022,Dec,11°C - 24°C,0.62,2 mm
+Uttar Pradesh,2023,Jan,8°C - 17°C,0.88,12 mm
+Uttar Pradesh,2023,Feb,11°C - 24°C,0.76,5 mm
+Uttar Pradesh,2023,Mar,16°C - 30°C,0.52,20 mm
+Uttar Pradesh,2023,Apr,22°C - 38°C,0.38,15 mm
+Uttar Pradesh,2023,May,24°C - 37°C,0.42,40 mm
+Uttar Pradesh,2023,Jun,28°C - 38°C,0.58,95 mm
+Uttar Pradesh,2023,Jul,28°C - 34°C,0.82,290 mm
+Uttar Pradesh,2023,Aug,27°C - 32°C,0.85,260 mm
+Uttar Pradesh,2023,Sep,26°C - 32°C,0.8,180 mm
+Uttar Pradesh,2023,Oct,21°C - 31°C,0.55,10 mm
+Uttar Pradesh,2023,Nov,14°C - 27°C,0.58,2 mm
+Uttar Pradesh,2023,Dec,10°C - 23°C,0.64,3 mm
+Uttar Pradesh,2024,Jan,10°C - 18°C,0.86,5 mm
+Uttar Pradesh,2024,Feb,15°C - 27°C,0.65,14 mm
+Uttar Pradesh,2024,Mar,17°C - 32°C,0.48,8 mm
+Uttar Pradesh,2024,Apr,23°C - 36°C,0.32,6 mm
+Uttar Pradesh,2024,May,27°C - 39°C,0.28,12 mm
+Uttar Pradesh,2024,Jun,30°C - 41°C,0.45,80 mm
+Uttar Pradesh,2024,Jul,28°C - 34°C,0.84,310 mm
+Uttar Pradesh,2024,Aug,27°C - 32°C,0.86,285 mm
+Uttar Pradesh,2024,Sep,26°C - 32°C,0.82,210 mm
+Uttar Pradesh,2024,Oct,24°C - 32°C,0.62,15 mm
+Uttar Pradesh,2024,Nov,16°C - 28°C,0.56,0 mm
+Uttar Pradesh,2024,Dec,11°C - 24°C,0.68,1 mm
+Uttar Pradesh,2025,Jan,12°C - 23°C,0.82,5 mm
+Uttar Pradesh,2025,Feb,15°C - 29°C,0.68,2 mm
+Uttar Pradesh,2025,Mar,18°C - 33°C,0.45,10 mm
+Uttar Pradesh,2025,Apr,24°C - 40°C,0.3,4 mm
+Uttar Pradesh,2025,May,27°C - 42°C,0.35,22 mm
+Uttar Pradesh,2025,Jun,28°C - 39°C,0.55,110 mm
+Uttar Pradesh,2025,Jul,27°C - 34°C,0.8,275 mm
+Uttar Pradesh,2025,Aug,26°C - 33°C,0.84,315 mm
+Uttar Pradesh,2025,Sep,25°C - 32°C,0.79,220 mm
+Uttar Pradesh,2025,Oct,22°C - 31°C,0.65,145 mm
+Uttar Pradesh,2025,Nov,16°C - 28°C,0.58,1 mm
+Uttar Pradesh,2025,Dec,11°C - 24°C,0.65,2 mm
+Uttarakhand,2021,Jan,7°C - 20°C,0.83,40 mm
+Uttarakhand,2021,Feb,9°C - 23°C,0.66,52 mm
+Uttarakhand,2021,Mar,13°C - 28°C,0.54,42 mm
+Uttarakhand,2021,Apr,17°C - 33°C,0.32,28 mm
+Uttarakhand,2021,May,21°C - 35°C,0.42,55 mm
+Uttarakhand,2021,Jun,23°C - 34°C,0.55,230 mm
+Uttarakhand,2021,Jul,24°C - 31°C,0.78,620 mm
+Uttarakhand,2021,Aug,23°C - 30°C,0.8,715 mm
+Uttarakhand,2021,Sep,21°C - 30°C,0.76,305 mm
+Uttarakhand,2021,Oct,16°C - 29°C,0.61,150 mm
+Uttarakhand,2021,Nov,11°C - 26°C,0.63,5 mm
+Uttarakhand,2021,Dec,8°C - 22°C,0.72,12 mm
+Uttarakhand,2022,Jan,9°C - 17°C,0.89,85 mm
+Uttarakhand,2022,Feb,12°C - 23°C,0.72,32 mm
+Uttarakhand,2022,Mar,19°C - 32°C,0.56,2 mm
+Uttarakhand,2022,Apr,26°C - 40°C,0.2,1 mm
+Uttarakhand,2022,May,28°C - 40°C,0.43,48 mm
+Uttarakhand,2022,Jun,29°C - 40°C,0.39,145 mm
+Uttarakhand,2022,Jul,28°C - 34°C,0.75,590 mm
+Uttarakhand,2022,Aug,27°C - 34°C,0.76,640 mm
+Uttarakhand,2022,Sep,26°C - 33°C,0.74,280 mm
+Uttarakhand,2022,Oct,21°C - 30°C,0.66,120 mm
+Uttarakhand,2022,Nov,16°C - 27°C,0.57,0 mm
+Uttarakhand,2022,Dec,10°C - 22°C,0.71,5 mm
+Uttarakhand,2023,Jan,8°C - 18°C,0.81,35 mm
+Uttarakhand,2023,Feb,13°C - 27°C,0.62,15 mm
+Uttarakhand,2023,Mar,18°C - 29°C,0.59,46 mm
+Uttarakhand,2023,Apr,22°C - 34°C,0.35,56 mm
+Uttarakhand,2023,May,24°C - 36°C,0.45,62 mm
+Uttarakhand,2023,Jun,27°C - 36°C,0.6,220 mm
+Uttarakhand,2023,Jul,27°C - 33°C,0.86,680 mm
+Uttarakhand,2023,Aug,28°C - 34°C,0.72,710 mm
+Uttarakhand,2023,Sep,26°C - 34°C,0.72,320 mm
+Uttarakhand,2023,Oct,21°C - 32°C,0.54,15 mm
+Uttarakhand,2023,Nov,16°C - 26°C,0.69,5 mm
+Uttarakhand,2023,Dec,11°C - 22°C,0.73,1 mm
+Uttarakhand,2024,Jan,8°C - 17°C,0.86,10 mm
+Uttarakhand,2024,Feb,11°C - 23°C,0.66,25 mm
+Uttarakhand,2024,Mar,16°C - 29°C,0.49,18 mm
+Uttarakhand,2024,Apr,23°C - 36°C,0.31,12 mm
+Uttarakhand,2024,May,29°C - 41°C,0.28,22 mm
+Uttarakhand,2024,Jun,30°C - 41°C,0.4,180 mm
+Uttarakhand,2024,Jul,28°C - 35°C,0.8,610 mm
+Uttarakhand,2024,Aug,27°C - 33°C,0.85,740 mm
+Uttarakhand,2024,Sep,25°C - 32°C,0.83,295 mm
+Uttarakhand,2024,Oct,23°C - 34°C,0.59,5 mm
+Uttarakhand,2024,Nov,16°C - 28°C,0.64,0 mm
+Uttarakhand,2024,Dec,10°C - 21°C,0.68,1 mm
+Uttarakhand,2025,Jan,9°C - 20°C,0.81,15 mm
+Uttarakhand,2025,Feb,12°C - 25°C,0.62,8 mm
+Uttarakhand,2025,Mar,16°C - 31°C,0.46,35 mm
+Uttarakhand,2025,Apr,24°C - 38°C,0.32,30 mm
+Uttarakhand,2025,May,26°C - 37°C,0.51,58 mm
+Uttarakhand,2025,Jun,28°C - 37°C,0.6,315 mm
+Uttarakhand,2025,Jul,27°C - 33°C,0.8,525 mm
+Uttarakhand,2025,Aug,27°C - 32°C,0.81,930 mm
+Uttarakhand,2025,Sep,26°C - 34°C,0.72,425 mm
+Uttarakhand,2025,Oct,21°C - 30°C,0.71,85 mm
+Uttarakhand,2025,Nov,13°C - 26°C,0.62,2 mm
+Uttarakhand,2025,Dec,10°C - 22°C,0.73,4 mm
+West Bengal,2021,Jan,15°C - 26°C,0.73,2 mm
+West Bengal,2021,Feb,18°C - 30°C,0.66,1.5 mm
+West Bengal,2021,Mar,23°C - 35°C,0.62,18 mm
+West Bengal,2021,Apr,26°C - 37°C,0.65,45 mm
+West Bengal,2021,May,26°C - 35°C,0.78,315 mm
+West Bengal,2021,Jun,26°C - 34°C,0.84,385 mm
+West Bengal,2021,Jul,26°C - 33°C,0.86,390 mm
+West Bengal,2021,Aug,26°C - 33°C,0.85,310 mm
+West Bengal,2021,Sep,26°C - 33°C,0.86,425 mm
+West Bengal,2021,Oct,24°C - 32°C,0.8,165 mm
+West Bengal,2021,Nov,20°C - 30°C,0.72,12 mm
+West Bengal,2021,Dec,16°C - 27°C,0.74,1 mm
+West Bengal,2022,Jan,15°C - 24°C,0.81,35 mm
+West Bengal,2022,Feb,17°C - 27°C,0.75,28 mm
+West Bengal,2022,Mar,24°C - 33°C,0.64,5 mm
+West Bengal,2022,Apr,27°C - 35°C,0.76,48 mm
+West Bengal,2022,May,27°C - 35°C,0.74,155 mm
+West Bengal,2022,Jun,28°C - 34°C,0.78,245 mm
+West Bengal,2022,Jul,27°C - 33°C,0.82,210 mm
+West Bengal,2022,Aug,27°C - 32°C,0.85,295 mm
+West Bengal,2022,Sep,26°C - 32°C,0.84,230 mm
+West Bengal,2022,Oct,24°C - 31°C,0.78,145 mm
+West Bengal,2022,Nov,20°C - 29°C,0.72,0 mm
+West Bengal,2022,Dec,17°C - 27°C,0.72,0 mm
+West Bengal,2023,Jan,17°C - 27°C,0.73,1 mm
+West Bengal,2023,Feb,21°C - 31°C,0.65,2 mm
+West Bengal,2023,Mar,23°C - 33°C,0.66,42 mm
+West Bengal,2023,Apr,27°C - 37°C,0.62,15 mm
+West Bengal,2023,May,27°C - 35°C,0.74,110 mm
+West Bengal,2023,Jun,28°C - 34°C,0.78,195 mm
+West Bengal,2023,Jul,27°C - 33°C,0.82,280 mm
+West Bengal,2023,Aug,26°C - 32°C,0.85,335 mm
+West Bengal,2023,Sep,26°C - 32°C,0.84,215 mm
+West Bengal,2023,Oct,24°C - 32°C,0.79,118 mm
+West Bengal,2023,Nov,21°C - 30°C,0.74,22 mm
+West Bengal,2023,Dec,17°C - 27°C,0.75,5 mm
+West Bengal,2024,Jan,13°C - 23°C,0.76,12 mm
+West Bengal,2024,Feb,18°C - 28°C,0.69,15 mm
+West Bengal,2024,Mar,22°C - 32°C,0.6,10 mm
+West Bengal,2024,Apr,28°C - 38°C,0.58,12 mm
+West Bengal,2024,May,26°C - 36°C,0.71,240 mm
+West Bengal,2024,Jun,28°C - 35°C,0.79,225 mm
+West Bengal,2024,Jul,27°C - 33°C,0.83,315 mm
+West Bengal,2024,Aug,26°C - 32°C,0.86,405 mm
+West Bengal,2024,Sep,26°C - 32°C,0.82,280 mm
+West Bengal,2024,Oct,25°C - 32°C,0.78,110 mm
+West Bengal,2024,Nov,21°C - 30°C,0.73,0 mm
+West Bengal,2024,Dec,17°C - 26°C,0.74,1 mm
+West Bengal,2025,Jan,15°C - 25°C,0.72,9.7 mm
+West Bengal,2025,Feb,19°C - 30°C,0.67,23.6 mm
+West Bengal,2025,Mar,24°C - 34°C,0.6,12 mm
+West Bengal,2025,Apr,25°C - 35°C,0.71,48 mm
+West Bengal,2025,May,26°C - 35°C,0.77,242.8 mm
+West Bengal,2025,Jun,28°C - 35°C,0.81,210 mm
+West Bengal,2025,Jul,27°C - 33°C,0.84,265 mm
+West Bengal,2025,Aug,27°C - 32°C,0.84,285 mm
+West Bengal,2025,Sep,27°C - 33°C,0.83,195.9 mm
+West Bengal,2025,Oct,25°C - 32°C,0.8,112.2 mm
+West Bengal,2025,Nov,21°C - 30°C,0.75,8 mm
+West Bengal,2025,Dec,17°C - 26°C,0.76,2 mm

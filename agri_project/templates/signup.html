@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Join AgriBot</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            background: #e6f4ea;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            width: 350px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            text-align: center;
+            color: #14532d;
+        }
+
+        input {
+            width: 100%;
+            padding: 10px;
+            margin: 8px 0;
+            border-radius: 6px;
+            border: 1px solid #ccc;
+        }
+
+        button {
+            width: 100%;
+            padding: 10px;
+            background: #16a34a;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            font-size: 16px;
+        }
+
+        .link {
+            text-align: center;
+            margin-top: 10px;
+        }
+
+        a {
+            color: green;
+            text-decoration: none;
+        }
+
+        .back {
+            margin-top: 15px;
+            display: block;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>Join AgriBot</h2>
+    <p style="text-align:center;">Create your account to get started</p>
+
+    <form method="POST">
+        {% csrf_token %}
+
+        <input type="text" name="name" placeholder="Enter your name" required>
+        <input type="text" name="mobile" placeholder="Enter mobile number" required>
+        <input type="email" name="email" placeholder="Enter email" required>
+        <input type="text" name="location" placeholder="Village/City, State" required>
+        <input type="password" name="password" placeholder="Create a password" required>
+
+        <button type="submit">Create Account</button>
+    </form>
+
+    <div class="link">
+        Already have an account? <a href="/login/">Login here</a>
+    </div>
+
+    <a href="/" class="back">← Back to Home</a>
+</div>
+
+</body>
+</html>

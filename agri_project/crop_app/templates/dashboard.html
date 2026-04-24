@@ -1,0 +1,60 @@
+{% load i18n %}
+{% get_current_language as LANGUAGE_CODE %}
+
+<h2>{% trans "Crop Recommendation Analytics" %}</h2>
+
+<h2>🌿 Your Crop Predictions</h2>
+
+{% for item in crop_history %}
+    <p>
+        🌱 {{ item.crop }} 
+        ({{ item.confidence }}%) 
+        - {{ item.created_at }}
+    </p>
+{% empty %}
+    <p>No crop predictions yet</p>
+{% endfor %}
+
+<hr>
+
+<h2>🍃 Your Disease Predictions</h2>
+
+{% for item in disease_history %}
+    <p>
+        🦠 {{ item.disease }} <br>
+        💊 {{ item.remedy }} <br>
+        📅 {{ item.created_at }}
+    </p>
+{% empty %}
+    <p>No disease predictions yet</p>
+{% endfor %}
+
+<p>
+    <strong>{% trans "Total Predictions:" %}</strong>
+    {{ total_predictions }}
+</p>
+
+<p>
+    <strong>{% trans "Average Confidence:" %}</strong>
+    {{ avg_confidence }}%
+</p>
+
+<h3>{% trans "Most Recommended Crops:" %}</h3>
+
+<ul>
+    {% for crop in crop_distribution %}
+        <li>
+            {{ crop.predicted_crop }} -
+            {{ crop.count }}
+        </li>
+    {% endfor %}
+</ul>
+{% if not crop_history and not disease_history %}
+    <p>Start using features to see your history 😊</p>
+{% endif %}
+<a href="/">
+    {% trans "Go Back" %}
+</a>
+<a href="/logout/">
+    <button>Logout</button>
+</a>
