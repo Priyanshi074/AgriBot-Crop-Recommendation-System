@@ -69,8 +69,8 @@ def features(request):
     return render(request, 'features.html')
 # ---------------- CONFIG ----------------
 
-API_KEY = "YOUR_API_KEY"
-
+# API_KEY = "YOUR_API_KEY"
+API_KEY = os.getenv("API_KEY")
 CITY_TO_STATE = {
     "delhi": "delhi",
     "mumbai": "maharashtra",
