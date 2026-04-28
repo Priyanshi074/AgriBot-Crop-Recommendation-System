@@ -2,79 +2,7 @@
 <html>
 <head>
     <title>AgriBot Features</title>
-    <style>
-        body {
-            font-family: Arial;
-            background: #e6f4ea;
-            text-align: center;
-            padding: 50px;
-        }
 
-        h1 {
-            color: #14532d;
-        }
-
-        .card {
-            display: inline-block;
-            width: 250px;
-            padding: 20px;
-            margin: 20px;
-            background: white;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-
-        a {
-            text-decoration: none;
-        }
-
-        button {
-            margin-top: 10px;
-            padding: 10px;
-            width: 100%;
-            background: #16a34a;
-            color: white;
-            border: none;
-            border-radius: 5px;
-        }
-    </style>
-</head>
-<body>
-
-<h1>🌿 Welcome to AgriBot</h1>
-<p>Select a feature to continue</p>
-
-<div class="card">
-    <h3>🌱 Crop Recommendation</h3>
-    <a href="/crop/"><button>Open</button></a>
-</div>
-
-<div class="card">
-    <h3>🍃 Disease Detection</h3>
-    <a href="/disease/"><button>Open</button></a>
-</div>
-
-<div class="card">
-    <h3>🤖 Chatbot</h3>
-    <a href="/chat/"><button>Open</button></a>
-</div>
-
-<br><br>
-
-<a href="/dashboard/"><button>📊 View My History</button></a>
-<a href="/logout/"><button>🚪 Logout</button></a>
-
-</body>
-</html> {% endcomment %}
-
-
-<!DOCTYPE html>
-
-<html>
-<head>
-    <title>AgriBot Features</title>
-
-```
 <!-- Bootstrap -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
 
@@ -85,7 +13,7 @@
     body {
         margin: 0;
         font-family: Arial, sans-serif;
-        background: linear-gradient(to right, #d4fc79, #96e6a1);
+        background: #e6f4ea;
     }
 
     .header {
@@ -121,7 +49,6 @@
         margin-top: 40px;
     }
 </style>
-```
 
 </head>
 
@@ -135,7 +62,6 @@
 <div class="container mt-4">
     <div class="row text-center">
 
-```
     <!-- Crop -->
     <div class="col-md-4 mb-4">
         <div class="card p-4 shadow bg-light">
@@ -167,7 +93,165 @@
     </div>
 
 </div>
-```
+
+</div>
+
+<!-- Bottom Buttons -->
+
+<div class="bottom-buttons">
+    <a href="/dashboard/" class="btn btn-dark m-2">📊 View My History</a>
+    <a href="/logout/" class="btn btn-outline-dark m-2">🚪 Logout</a>
+</div>
+
+</body>
+</html>  {% endcomment %}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>AgriBot Features</title>
+
+
+<!-- Bootstrap -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Icons -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+
+<style>
+    body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background: #ddf5e4;
+    }
+
+    .header {
+        text-align: center;
+        padding: 60px 20px 20px;
+    }
+
+    .header h1 {
+        color: #14532d;
+        font-size: 50px;
+    }
+
+    .header p {
+        color: #374151;
+        font-size: 18px;
+        max-width: 700px;
+        margin: auto;
+    }
+
+    .card {
+        border-radius: 15px;
+        transition: 0.3s;
+    }
+
+    .card:hover {
+        transform: translateY(-8px);
+    }
+
+    .feature-desc {
+        font-size: 15px;
+        color: #555;
+        margin-top: 10px;
+    }
+
+    .highlight {
+        font-size: 14px;
+        color: #15803d;
+        margin-top: 8px;
+    }
+
+    .custom-btn {
+        border-radius: 8px;
+        margin-top: 10px;
+    }
+
+    .bottom-buttons {
+        text-align: center;
+        margin-top: 50px;
+    }
+</style>
+
+
+</head>
+
+<body>
+
+<div class="header">
+    <h1>🌿 Welcome to AgriBot</h1>
+    <p>
+        AgriBot is an intelligent farming assistant designed to support farmers with
+        smart decision-making tools. Choose a feature below to enhance your agricultural productivity.
+    </p>
+</div>
+
+<div class="container mt-4">
+    <div class="row text-center">
+
+    <!-- Crop Recommendation -->
+    <div class="col-md-4 mb-4">
+        <div class="card p-4 shadow bg-light">
+            <i class="fas fa-seedling fa-3x text-success mb-3"></i>
+            <h4>Crop Recommendation</h4>
+
+            <p class="feature-desc">
+                Get personalized crop suggestions based on soil nutrients (N, P, K),
+                temperature, humidity, and rainfall conditions.
+            </p>
+
+            <p class="highlight">
+                ✔ Helps maximize yield<br>
+                ✔ Reduces crop failure risk
+            </p>
+
+            <a href="/crop/" class="btn btn-success custom-btn">Open</a>
+        </div>
+    </div>
+
+    <!-- Disease Detection -->
+    <div class="col-md-4 mb-4">
+        <div class="card p-4 shadow bg-light">
+            <i class="fas fa-bug fa-3x text-danger mb-3"></i>
+            <h4>Disease Detection</h4>
+
+            <p class="feature-desc">
+                Upload an image of your crop leaf and detect diseases using AI-based
+                image classification techniques.
+            </p>
+
+            <p class="highlight">
+                ✔ Early disease identification<br>
+                ✔ Prevents major crop loss
+            </p>
+
+            <a href="/disease/" class="btn btn-danger custom-btn">Open</a>
+        </div>
+    </div>
+
+    <!-- Chatbot -->
+    <div class="col-md-4 mb-4">
+        <div class="card p-4 shadow bg-light">
+            <i class="fas fa-robot fa-3x text-primary mb-3"></i>
+            <h4>Chat Assistant</h4>
+
+            <p class="feature-desc">
+                Ask farming-related questions and get instant guidance on crops,
+                fertilizers, irrigation, and best practices.
+            </p>
+
+            <p class="highlight">
+                ✔ 24/7 assistance<br>
+                ✔ Easy to use for farmers
+            </p>
+
+            <a href="/chat/" class="btn btn-primary custom-btn">Open</a>
+        </div>
+    </div>
+
+</div>
 
 </div>
 
