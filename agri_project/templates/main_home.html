@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,155 +10,478 @@
     <!-- Icons -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
 
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
     <style>
-        {% comment %} body {
-            background-image: url('https://media.istockphoto.com/id/543212762/photo/tractor-cultivating-field-at-spring.jpg?s=612x612&w=0&k=20&c=uJDy7MECNZeHDKfUrLNeQuT7A1IqQe89lmLREhjIJYU=');
-            background-size: cover; /* Ensures the image covers the entire area */
-            background-repeat: no-repeat; /* Prevents the image from tiling */
-            background-position: center; /* Centers the image */
-            background-attachment: fixed; /* Keeps the background fixed during scroll */
-            margin: 0; /* Removes default browser padding */
-            height: 100vh; /* Sets height to 100% of the viewport */
-        }  {% endcomment %}
-        body {
-            background: linear-gradient(to right, #89a47c, #72845b);
-            color: white;
-            font-family: Arial;
+        html {
+            scroll-behavior: smooth;
+        }
+        .custom-navbar {
+            background: rgba(255,255,255,0.8);
+            backdrop-filter: blur(10px);
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
         }
 
-
-        .card {
-            border: none;
-            border-radius: 15px;
-            transition: 0.3s;
+        .navbar-brand {
+            color: #166534 !important;
         }
 
-        .card:hover {
-            transform: scale(1.05);
-        }
-
-        .btn {
-            border-radius: 20px;
+        .nav-link {
+            color: #374151 !important;
+            font-weight: 500;
         }
         body {
             margin: 0;
-            font-family: Arial, sans-serif;
-            background: #ddf5e4;
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(to right, #d4f5dd, #c1e8cc);
         }
 
+        h1, h2, h3 {
+            font-weight: 700;
+        }
+
+        p {
+            color: #4b5563;
+        }
+
+        /* HERO */
         .hero {
             text-align: center;
-            padding: 80px 20px 40px;
+            padding: 120px 20px 80px;
         }
 
         .hero-icon {
-            font-size: 50px;
-            color: green;
+            font-size: 70px;
+            margin-bottom: 10px;
         }
 
         .hero h1 {
             font-size: 60px;
-            color: #14532d;
-            margin: 10px 0;
+            color: #7f9387;
         }
 
         .hero h3 {
             color: #15803d;
-            font-weight: normal;
+            margin-bottom: 15px;
         }
 
         .hero p {
-            max-width: 700px;
-            margin: 20px auto;
-            color: #374151;
+            max-width: 650px;
+            margin: auto;
             font-size: 18px;
         }
 
-        .btn-container {
-            margin-top: 30px;
-        }
-
+        /* BUTTONS */
         .btn {
-            padding: 12px 25px;
-            font-size: 18px;
-            border-radius: 8px;
-            border: none;
-            cursor: pointer;
+            padding: 12px 28px;
+            font-size: 16px;
+            border-radius: 30px;
             margin: 10px;
         }
 
         .btn-primary {
             background: #16a34a;
-            color: white;
+            border: none;
         }
 
-        .btn-outline {
-            background: transparent;
-            border: 2px solid #16a34a;
+        .btn-primary:hover {
+            background: #15803d;
+        }
+        .btn-chat {
+            background: #2563eb;   /* blue */
+            color: white;
+            border: none;
+            border-radius: 30px;
+            padding: 12px 28px;
+            transition: 0.3s;
+        }
+
+        .btn-chat:hover {
+            background: #1d4ed8;   /* darker blue */
+            color: white;
+        }
+        .btn-outline-success {
+            border-radius: 30px;
+        }
+
+        /* SECTIONS */
+        .section {
+            padding: 80px 0;
+        }
+
+        .section-light {
+            background: #f0fdf4;
+        }
+
+        .section-white {
+            background: white;
+        }
+
+        .section-title {
+            text-align: center;
+            margin-bottom: 10px;
+            color: #14532d;
+        }
+
+        .section-subtext {
+            text-align: center;
+            max-width: 600px;
+            margin: auto;
+            margin-bottom: 50px;
+        }
+
+        /* CARDS */
+        .card {
+            border: none;
+            border-radius: 20px;
+            transition: 0.3s;
+            height: 100%;
+        }
+
+        .card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+        }
+
+        /* BOXES */
+        .step-box {
+            padding: 30px;
+            border-radius: 15px;
+            background: white;
+            text-align: center;
+            height: 100%;
+            transition: 0.3s;
+        }
+
+        .step-box:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+        }
+
+        .section-icon {
+            font-size: 45px;
+            margin-bottom: 15px;
             color: #16a34a;
+        }
+
+        /* BENEFITS */
+        .benefit-card {
+            padding: 25px;
+            border-radius: 15px;
+            background: linear-gradient(135deg, #dcfce7, #bbf7d0);
+            text-align: center;
+            transition: 0.3s;
+            height: 100%;
+        }
+
+        .benefit-card:hover {
+            transform: scale(1.05);
+        }
+
+        /* TECH */
+        .tech-box {
+            padding: 25px;
+            border-radius: 15px;
+            background: #f9fafb;
+            text-align: center;
+            transition: 0.3s;
+            height: 100%;
+        }
+
+        .tech-box:hover {
+            background: #ecfdf5;
+            transform: translateY(-5px);
+        }
+
+        .contact-section {
+            background: linear-gradient(135deg, #f0fdf4, #dcfce7);
+        }
+
+        .contact-card {
+            background: white;
+            padding: 30px;
+            border-radius: 18px;
+            text-align: center;
+            transition: 0.3s;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.05);
+        }
+
+        .contact-card i {
+            font-size: 30px;
+            color: #16a34a;
+            margin-bottom: 15px;
+        }
+
+        .contact-card h5 {
+            margin-bottom: 10px;
+            color: #166534;
+        }
+
+        .contact-card:hover {
+            transform: translateY(-6px);
+        }
+        /* FOOTER */
+        footer {
+            background: #14532d;
+            color: white;
+            padding: 25px;
+        }
+
+        footer p {
+            margin: 5px;
+            color: #d1fae5;
         }
     </style>
 </head>
+<!-- NAVBAR -->
+<nav class="navbar navbar-expand-lg navbar-light fixed-top custom-navbar">
+    <div class="container">
+        <a class="navbar-brand fw-bold" href="#"> Agrisaarthi</a>
+
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nav">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="nav">
+            <ul class="navbar-nav ms-auto align-items-center">
+                <li class="nav-item"><a class="nav-link" href="#features">Features</a></li>
+                <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+                <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+
+                <li class="nav-item ms-3">
+                    <a href="/login/" class="btn btn-outline-success btn-sm">Login</a>
+                </li>
+                <li class="nav-item ms-2">
+                    <a href="/signup/" class="btn btn-success btn-sm">Get Started</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
 <body>
-<div class="hero">
-    <div class="hero-icon">🌱</div>
 
-    <h1>AgriBot</h1>
-
+<!-- HERO -->
+<div class="hero container">
+    <div class="hero-icon"></div>
+    <h1>Agrisaarthi</h1>
     <h3>Intelligent Farmer Support System</h3>
 
     <p>
         Empowering farmers with AI-driven insights for crop selection,
-        disease management, and scientific agricultural guidance
+        disease detection, and smart agricultural decisions.
     </p>
 
-    <div class="btn-container">
-        <a href="/signup/">
-            <button class="btn btn-primary">Get Started</button>
-        </a>
-
-        <a href="/login/">
-            <button class="btn btn-outline">Login</button>
-        </a>
+    <div>
+        <a href="/signup/" class="btn btn-primary">Get Started</a>
+        <a href="/login/" class="btn btn-outline-success">Login</a>
     </div>
 </div>
-<h2 style="text-align:center; color:#14532d;">Core Features</h2>
 
-<div class="container text-center mt-5">
-    <div class="row justify-content-center">
+<!-- FEATURES -->
+<section id="features" class="section container">
+    <h2 class="section-title">Core Features</h2>
+    <p class="section-subtext">Explore powerful AI tools designed for modern agriculture</p>
 
-        <!-- Crop Module -->
+    <div class="row g-4">
+
         <div class="col-md-4">
-            <div class="card p-4 shadow bg-light text-dark">
+            <div class="card p-4 text-center bg-light">
                 <i class="fas fa-seedling fa-3x text-success mb-3"></i>
                 <h4>Crop Recommendation</h4>
-                <p>Get best crop based on soil & weather</p>
-                <a href="/crop/" class="btn btn-success">Open</a>
+                <p>Get the best crop suggestion based on soil nutrients and weather conditions.</p>
+                <a href="/" class="btn btn-success">Login to try</a>
             </div>
         </div>
 
-        <!-- Chat Module -->
         <div class="col-md-4">
-            <div class="card p-4 shadow bg-light text-dark">
-                <i class="fas fa-comments fa-3x text-primary mb-3"></i>
-                <h4>Chat Assistant</h4>
-                <p>Ask farming related questions</p>
-                <button class="btn btn-secondary" disabled>Coming Soon</button>
-            </div>
-        </div>
-
-        <!-- Disease Module -->
-        <div class="col-md-4">
-            <div class="card p-4 shadow bg-light text-dark">
+            <div class="card p-4 text-center bg-light">
                 <i class="fas fa-bug fa-3x text-danger mb-3"></i>
                 <h4>Disease Detection</h4>
-                <p>Detect crop diseases</p>
-                <a href="/disease/" class="btn btn-danger">Open</a>        
+                <p>Upload crop images and detect diseases using AI models.</p>
+                <a href="/" class="btn btn-danger">Login to try</a>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card p-4 text-center bg-light">
+                <i class="fas fa-comments fa-3x text-primary mb-3"></i>
+                <h4>AI Chat Assistant</h4>
+                <p>Ask farming-related questions and get instant expert-level answers.</p>
+                <a href="/" class="btn btn-chat">Login to try</a>
             </div>
         </div>
 
     </div>
-</div>
+</section>
 
+<!-- ABOUT -->
+ <section id="about" class="section section-light">
+    <div class="container">
+        <h2 class="section-title">About Agrisaarthi</h2>
+        <p class="section-subtext">
+            Agrisaarthi helps farmers make better decisions using Artificial Intelligence,
+            improving productivity and sustainability.
+        </p>
+
+        <div class="row g-4 mt-4">
+            <div class="col-md-4">
+                <div class="step-box">
+                    <div class="section-icon">🌾</div>
+                    <h5>Smart Farming</h5>
+                    <p>Use AI tools to enhance agricultural productivity.</p>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="step-box">
+                    <div class="section-icon">📊</div>
+                    <h5>Data Insights</h5>
+                    <p>Make decisions using real-time soil and weather data.</p>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="step-box">
+                    <div class="section-icon">🤖</div>
+                    <h5>AI Chatbot</h5>
+                    <p>24/7 assistant for all your farming queries.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- HOW IT WORKS -->
+<section class="section section-white">
+    <div class="container">
+        <h2 class="section-title">How It Works</h2>
+        <p class="section-subtext">Simple and effective 3-step process</p>
+
+        <div class="row g-4 mt-4">
+
+            <div class="col-md-4">
+                <div class="step-box">
+                    <div class="section-icon">📝</div>
+                    <h5>Enter Data</h5>
+                    <p>Provide soil nutrients and environmental inputs.</p>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="step-box">
+                    <div class="section-icon">🧠</div>
+                    <h5>AI Analysis</h5>
+                    <p>Our machine learning models process your data.</p>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="step-box">
+                    <div class="section-icon">✅</div>
+                    <h5>Get Results</h5>
+                    <p>Receive accurate predictions instantly.</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!-- BENEFITS -->
+<section class="section section-light">
+    <div class="container">
+        <h2 class="section-title">Why Choose Agrisaarthi?</h2>
+
+        <div class="row g-4 mt-4">
+
+            <div class="col-md-3">
+                <div class="benefit-card">
+                    <h5> Higher Yield</h5>
+                    <p>Increase crop productivity efficiently.</p>
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="benefit-card">
+                    <h5>💰 Cost Saving</h5>
+                    <p>Reduce unnecessary farming expenses.</p>
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="benefit-card">
+                    <h5>⚡ Fast Results</h5>
+                    <p>Get instant AI-powered insights.</p>
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="benefit-card">
+                    <h5>🌍 Eco Friendly</h5>
+                    <p>Promotes sustainable agriculture.</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!-- TECHNOLOGY -->
+<section class="section section-white">
+    <div class="container">
+        <h2 class="section-title">Technologies Used</h2>
+        <p class="section-subtext">Modern tools powering Agrisaarthi</p>
+
+        <div class="row g-4 mt-4">
+
+            <div class="col-md-3">
+                <div class="tech-box">
+                    <h5>🐍 Python</h5>
+                    <p>Backend processing</p>
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="tech-box">
+                    <h5>🌐 Django</h5>
+                    <p>Web framework</p>
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="tech-box">
+                    <h5>🧠 Machine Learning</h5>
+                    <p>Prediction engine</p>
+                </div>
+            </div>
+
+            <div class="col-md-3">
+                <div class="tech-box">
+                    <h5>🎨 Bootstrap</h5>
+                    <p>Responsive UI</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<section id="contact" class="section section-light">
+    <div class="container text-center">
+        <h2 class="section-title">Contact Us</h2>
+        <p class="section-subtext">Have questions? Reach out to us anytime.</p>
+
+        <div class="mt-4">
+            <p>Email: support@agribot.com</p>
+            <p>Phone: +91 9xxxxxxxxx</p>
+        </div>
+    </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="text-center">
+    <p>© 2026 Agrisaarthi | Smart Agriculture System</p>
+    <p>Built with ❤️ for farmers</p>
+</footer> 
 </body>
 </html>

@@ -18,12 +18,11 @@ import os
 load_dotenv()
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
-
-
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 SECRET_KEY = os.getenv("SECRET_KEY")
 DEBUG = os.getenv("DEBUG") == "True"
 ALLOWED_HOSTS = []
-
+CSRF_TRUSTED_ORIGINS = ["http://127.0.0.1:8000"]
 
 # Application definition
 
@@ -36,6 +35,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'crop_app',
     'disease_detection',
+    'chatbot',
 ]
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',

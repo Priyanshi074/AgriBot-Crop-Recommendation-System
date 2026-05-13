@@ -177,4 +177,28 @@
 </div>
 
 </body>
-</html>
+</html> 
+{% comment %} <h2>🌿 Your Crop Predictions</h2> {% endcomment %}
+
+{% comment %} {% for item in crop_history %}
+    <p>
+        🌱 {{ item.predicted_crop }} 
+        ({{ item.confidence }}%) 
+        - {{ item.created_at }}
+    </p>
+{% empty %}
+    <p>No crop predictions yet</p>
+{% endfor %}
+
+<hr>
+
+<h2>🍃 Your Disease Predictions</h2>
+
+{% for item in disease_history %}
+    <p>
+        🍃 {{ item.result }}
+        - {{ item.created_at }}
+    </p>
+{% empty %}
+    <p>No disease predictions yet</p>
+{% endfor %} {% endcomment %}

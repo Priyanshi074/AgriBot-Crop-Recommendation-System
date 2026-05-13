@@ -148,6 +148,7 @@ import os
 import base64
 import numpy as np
 import joblib
+import cv2
 from PIL import Image
 from django.shortcuts import render
 from .models import DiseasePrediction
@@ -206,15 +207,32 @@ def get_disease_name(predicted_class):
 # ==============================
 # PREDICTION FUNCTION (NO TF)
 # ==============================
-def predict_disease(img_path):
-    img = Image.open(img_path).convert("RGB").resize((64, 64))
-    img_array = np.array(img).flatten().reshape(1, -1)
+# def predict_disease(img_path):
+#     img = Image.open(img_path).convert("RGB").resize((64, 64))
+#     img_array = np.array(img).flatten().reshape(1, -1)
 
-    prediction = model.predict(img_array)[0]
+#     prediction = model.predict(img_array)[0]
+#     predicted_class = class_names[prediction]
+
+#     return predicted_class, remedies.get(predicted_class, "No remedy available")
+
+# def predict_disease(img_path):
+#     img = Image.open(img_path).convert("RGB").resize((128, 128))
+#     img_array = np.array(img).flatten().reshape(1, -1)
+
+#     prediction = model.predict(img_array)[0]
+#     predicted_class = class_names[prediction]
+
+#     return predicted_class, remedies.get(predicted_class, "No remedy available")
+def predict_disease(img_path):
+    img = cv2.imread(img_path)
+    img = cv2.resize(img, (128, 128))
+    img = img.flatten().reshape(1, -1)
+
+    prediction = model.predict(img)[0]
     predicted_class = class_names[prediction]
 
     return predicted_class, remedies.get(predicted_class, "No remedy available")
-
 # ==============================
 # MAIN VIEW
 # ==============================
@@ -258,17 +276,19 @@ def upload_image(request):
             predicted_class, remedy = predict_disease(file_path)
             result = get_disease_name(predicted_class)
         except Exception as e:
+            print("Prediction error:", e)
             result = "Prediction Failed"
             remedy = str(e)
-
         image_url = "/" + file_path
         if request.user.is_authenticated:
+            from .models import DiseasePrediction
+
             DiseasePrediction.objects.create(
-            user=request.user,
+                user=request.user,
             disease=result,
             remedy=remedy,
             image=file_path
-        )
+            )
             
         return render(request, "disease_detection/result.html", {
             "result": result,

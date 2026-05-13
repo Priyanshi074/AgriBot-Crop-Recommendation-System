@@ -1,25 +1,21 @@
 import joblib
+import random
 import pandas as pd
 import numpy as np
 import requests
 import os
 from datetime import datetime
-
 from django.shortcuts import render, redirect
 from django.db.models import Count, Avg
 from django.contrib.auth.models import User
 from django.contrib.auth import authenticate, login, logout
 from django.contrib.auth.decorators import login_required
-
+from crop_app.models import CropPrediction
 from .models import CropPrediction
 
-
-
 # ---------------- MAIN PAGES ----------------
-
 def main_home(request):
     return render(request, "main_home.html")
-
 
 def signup(request):
     if request.method == "POST":
@@ -46,7 +42,6 @@ def signup(request):
 
     return render(request, 'signup.html')
 
-
 def login_view(request):
     if request.method == "POST":
         email = request.POST.get('email')
@@ -66,7 +61,11 @@ def login_view(request):
 
 @login_required(login_url='/login/')
 def features(request):
-    return render(request, 'features.html')
+    crop_history = CropPrediction.objects.filter(user=request.user).order_by('-created_at')
+
+    return render(request, 'features.html', {
+        "crop_history": crop_history
+    })
 # ---------------- CONFIG ----------------
 
 # API_KEY = "YOUR_API_KEY"
@@ -116,7 +115,6 @@ CROP_NAME_MAP = {
     "coffee": "Coffee"
 }
 
-
 # ---------------- PATH ----------------
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -127,7 +125,6 @@ model = joblib.load(os.path.join(BASE_DIR, "crop_model.pkl"))
 scaler = joblib.load(os.path.join(BASE_DIR, "scaler.pkl"))
 le = joblib.load(os.path.join(BASE_DIR, "label_encoder.pkl"))
 
-
 # ---------------- LOAD WEATHER DATA ----------------
 
 try:
@@ -136,7 +133,6 @@ try:
     weather_df["month"] = weather_df["month"].astype(int)
 except:
     weather_df = pd.DataFrame()
-
 
 # ---------------- HISTORICAL WEATHER ----------------
 
@@ -196,8 +192,55 @@ def get_historical_weather(city):
     except:
         return 25, 60, 100
 
-
 # ---------------- CROP PRICE ----------------
+
+# def get_crop_price(crop):
+#     mapped_crop = CROP_NAME_MAP.get(crop.lower(), crop)
+
+#     url = "https://api.data.gov.in/resource/9ef84268-d588-465a-a308-a864a43d0070"
+
+#     params = {
+#         # "api-key": "579b464db66ec23bdd000001852e6567a65641594def70e31542ad3b",
+#         "api-key": "579b464db66ec23bdd00000123020453afc749c849ad6ec4e571e667",
+#         "format": "json",
+#         "limit": 1,
+#         "filters[commodity]": mapped_crop
+#     }
+
+#     try:
+#         response = requests.get(url, params=params, timeout=30)
+
+#         if response.status_code == 200:
+#             data = response.json()
+
+#             if data.get("records"):
+#                 r = data["records"][0]
+
+#                 return {
+#                     "min_price": r.get("min_price"),
+#                     "max_price": r.get("max_price"),
+#                     "market": r.get("market"),
+#                     "state": r.get("state")
+#                 }
+#             else:
+#                 print("No records found")
+
+#         else:
+#             print("API Error:", response.status_code)
+
+#     except Exception as e:
+#         print("Exception:", e)
+
+#     return None
+
+# fallback local prices
+LOCAL_PRICES = {
+    "rice": {"min_price": 1800, "max_price": 2200, "market": "Local Market", "state": "UP"},
+    "wheat": {"min_price": 2100, "max_price": 2600, "market": "Local Market", "state": "UP"},
+    "maize": {"min_price": 1600, "max_price": 2100, "market": "Local Market", "state": "UP"},
+    "cotton": {"min_price": 5000, "max_price": 6500, "market": "Local Market", "state": "GJ"},
+    "potato": {"min_price": 900, "max_price": 1400, "market": "Local Market", "state": "UP"},
+}
 
 def get_crop_price(crop):
     mapped_crop = CROP_NAME_MAP.get(crop.lower(), crop)
@@ -205,14 +248,18 @@ def get_crop_price(crop):
     url = "https://api.data.gov.in/resource/9ef84268-d588-465a-a308-a864a43d0070"
 
     params = {
-        "api-key": "579b464db66ec23bdd000001852e6567a65641594def70e31542ad3b",
+        "api-key": "YOUR_KEY",
         "format": "json",
         "limit": 1,
         "filters[commodity]": mapped_crop
     }
 
     try:
-        response = requests.get(url, params=params, timeout=10)
+        response = requests.get(
+            url,
+            params=params,
+            timeout=2
+        )
 
         if response.status_code == 200:
             data = response.json()
@@ -226,11 +273,20 @@ def get_crop_price(crop):
                     "market": r.get("market"),
                     "state": r.get("state")
                 }
-    except:
-        pass
 
-    return None
+    except Exception as e:
+        print("API failed, using fallback:", e)
 
+    # fallback local demo data
+    return LOCAL_PRICES.get(
+        crop.lower(),
+        {
+            "min_price": random.randint(1000, 3000),
+            "max_price": random.randint(3000, 6000),
+            "market": "Local Market",
+            "state": "India"
+        }
+    )
 
 # ---------------- HOME ----------------
 
@@ -244,6 +300,9 @@ def home(request):
             city = request.POST.get("city", "Delhi")
 
             temp, humidity, rainfall = get_historical_weather(city)
+            temp = round(temp, 2)
+            humidity = round(humidity, 2)
+            rainfall = round(rainfall, 2)
 
             input_data = pd.DataFrame(
                 [[N, P, K, temp, humidity, ph, rainfall]],
@@ -287,8 +346,23 @@ def home(request):
                     humidity=humidity,
                     rainfall=rainfall,
                     predicted_crop=prediction,
+                    
                     confidence=confidence
                 )
+            # CropPrediction.objects.create(
+            #     user=request.user if request.user.is_authenticated else None,
+            #     nitrogen=N,
+            #     phosphorus=P,
+            #     potassium=K,
+            #     ph=ph,
+            #     city=city,
+            #     temperature=temp,
+            #     humidity=humidity,
+            #     rainfall=rainfall,
+            #     predicted_crop=prediction,
+            #     crop=prediction,   # IMPORTANT (since you added this field)
+            #     confidence=confidence
+            # )
 
             return render(request, "result.html", {
                 "recommendations": recommendations,
@@ -379,13 +453,11 @@ def home(request):
 
     return render(request, "home.html")
 
-
 # ---------------- DASHBOARD ----------------
 
 @login_required(login_url='/login/')
 def dashboard(request):
     total_predictions = CropPrediction.objects.count()
-
     crop_distribution = (
         CropPrediction.objects
         .values("predicted_crop")
@@ -403,7 +475,27 @@ def dashboard(request):
         "avg_confidence": round(avg_confidence or 0, 2)
     })
 
+# import DiseasePrediction if you created it
 
+@login_required(login_url='/login/')
+def user_history(request):
+    crop_history = CropPrediction.objects.filter(
+        user=request.user
+    ).order_by('-created_at')
+
+    # If you have disease model
+    try:
+        from disease_detection.models import DiseasePrediction
+        disease_history = DiseasePrediction.objects.filter(
+            user=request.user
+        ).order_by('-created_at')
+    except:
+        disease_history = []
+
+    return render(request, "history.html", {
+        "crop_history": crop_history,
+        "disease_history": disease_history
+    })
 # ---------------- LOGOUT ----------------
 
 def logout_view(request):
